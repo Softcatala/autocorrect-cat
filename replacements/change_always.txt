@@ -1,5 +1,5 @@
 "mols altres" "molts altres"
-"hi ha prou amb" "n'hi ha prou amb"
+#" hi ha prou amb" " n'hi ha prou amb"
 "Hi ha prou amb" "N'hi ha prou amb"
 "cap a allà" "cap allà"
 "cap a allí" "cap allí"

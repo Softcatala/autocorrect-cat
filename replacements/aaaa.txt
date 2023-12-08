@@ -545,6 +545,8 @@ depenents dependents
 naixament naixement
 "anàlisi comparatiu" "anàlisi comparativa"
 "Anàlisi comparatiu" "Anàlisi comparativa"
+"un anàlisi" "una anàlisi"
+"Un anàlisi" "Una anàlisi"
 pòlvora pólvora
 pòlvores pólvores
 solicitaren sol·licitaren

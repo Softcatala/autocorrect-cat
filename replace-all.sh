@@ -2765,8 +2765,6 @@ echo "Searching: Volguè in file ${path}"
 sed -i "s/\bVolguè\b/Volgué/g" ${path}
 echo "Searching: mols\ altres in file ${path}"
 sed -i "s/\bmols\ altres\b/molts altres/g" ${path}
-echo "Searching: hi\ ha\ prou\ amb in file ${path}"
-sed -i "s/\bhi\ ha\ prou\ amb\b/n'hi ha prou amb/g" ${path}
 echo "Searching: Hi\ ha\ prou\ amb in file ${path}"
 sed -i "s/\bHi\ ha\ prou\ amb\b/N'hi ha prou amb/g" ${path}
 echo "Searching: cap\ a\ allà in file ${path}"
@@ -13617,6 +13615,10 @@ echo "Searching: anàlisi\ comparatiu in file ${path}"
 sed -i "s/\banàlisi\ comparatiu\b/anàlisi comparativa/g" ${path}
 echo "Searching: Anàlisi\ comparatiu in file ${path}"
 sed -i "s/\bAnàlisi\ comparatiu\b/Anàlisi comparativa/g" ${path}
+echo "Searching: un\ anàlisi in file ${path}"
+sed -i "s/\bun\ anàlisi\b/una anàlisi/g" ${path}
+echo "Searching: Un\ anàlisi in file ${path}"
+sed -i "s/\bUn\ anàlisi\b/Una anàlisi/g" ${path}
 echo "Searching: pòlvora in file ${path}"
 sed -i "s/\bpòlvora\b/pólvora/g" ${path}
 echo "Searching: pòlvores in file ${path}"
@@ -16549,8 +16551,8 @@ echo "Searching: \b([Dd])el (11?) (fins a) in file ${path}"
 sed -i -E "s/\b([Dd])el (11?) (fins a)/\1e l'\2 \3/g" ${path}
 echo "Searching: ''status quo'' in file ${path}"
 sed -i -E "s/''status quo''/''statu quo''/g" ${path}
-echo "Searching: \bl['’`′´][Oo]rde del Císter in file ${path}"
-sed -i -E "s/\bl['’`′´][Oo]rde del Císter/l'orde del Cister/g" ${path}
+echo "Searching: \bl['’\`′´][Oo]rde del Císter in file ${path}"
+sed -i -E "s/\bl['’\`′´][Oo]rde del Císter/l'orde del Cister/g" ${path}
 echo "Searching: \b([Nn]otes|externs|enllaços) i [Rr]eferencies\b in file ${path}"
 sed -i -E "s/\b([Nn]otes|externs|enllaços) i [Rr]eferencies\b/\1 i referències/g" ${path}
 echo "Searching: \b([Ff])ins +la +((se[vu]a )?(\d+|dècada|mort|defunció|fi|temporada|campanya|desaparició|invasió|conquesta|frontera)) in file ${path}"
@@ -16571,10 +16573,10 @@ echo "Searching: \b([AaEe])l? Estats Units in file ${path}"
 sed -i -E "s/\b([AaEe])l? Estats Units/\1ls Estats Units/g" ${path}
 echo "Searching: \b([Dd]e)l? Estats Units in file ${path}"
 sed -i -E "s/\b([Dd]e)l? Estats Units/\1ls Estats Units/g" ${path}
-echo "Searching: \b([Dd])['’`′´] *Estats Units in file ${path}"
-sed -i -E "s/\b([Dd])['’`′´] *Estats Units/\1els Estats Units/g" ${path}
-echo "Searching: \b([Dd])['’`′´] *EUA\b in file ${path}"
-sed -i -E "s/\b([Dd])['’`′´] *EUA\b/\1els EUA/g" ${path}
+echo "Searching: \b([Dd])['’\`′´] *Estats Units in file ${path}"
+sed -i -E "s/\b([Dd])['’\`′´] *Estats Units/\1els Estats Units/g" ${path}
+echo "Searching: \b([Dd])['’\`′´] *EUA\b in file ${path}"
+sed -i -E "s/\b([Dd])['’\`′´] *EUA\b/\1els EUA/g" ${path}
 echo "Searching: \bL'United\b in file ${path}"
 sed -i -E "s/\bL'United\b/El United/g" ${path}
 echo "Searching: \ba l'United\b in file ${path}"
@@ -16613,8 +16615,8 @@ echo "Searching: \bEl ([Ii])mperi\b in file ${path}"
 sed -i -E "s/\bEl ([Ii])mperi\b/L'\1mperi/g" ${path}
 echo "Searching: \bel ([Ii])mperi\b in file ${path}"
 sed -i -E "s/\bel ([Ii])mperi\b/l'\1mperi/g" ${path}
-echo "Searching: \b([Ll])['’`′´]([Uu]niversitat)\b in file ${path}"
-sed -i -E "s/\b([Ll])['’`′´]([Uu]niversitat)\b/\1a \2/g" ${path}
+echo "Searching: \b([Ll])['’\`′´]([Uu]niversitat)\b in file ${path}"
+sed -i -E "s/\b([Ll])['’\`′´]([Uu]niversitat)\b/\1a \2/g" ${path}
 echo "Searching: \b([Ii])ntrinca(ts?|des) in file ${path}"
 sed -i -E "s/\b([Ii])ntrinca(ts?|des)/\1ntrica\2/g" ${path}
 echo "Searching: \b([Tt])rascend(ents?\b|e?ix|ènci|ir\b|í\b|its?\b|ia\b|iren\b) in file ${path}"
@@ -16699,8 +16701,8 @@ echo "Searching: \b([Ee])l[·.•]labor in file ${path}"
 sed -i -E "s/\b([Ee])l[·.•]labor/\1labor/g" ${path}
 echo "Searching: \b([Cc]at[àa])l *[·.•] *l([ieo]) in file ${path}"
 sed -i -E "s/\b([Cc]at[àa])l *[·.•] *l([ieo])/\1l\2/g" ${path}
-echo "Searching: \bs['’`′´]el[·.•]labor in file ${path}"
-sed -i -E "s/\bs['’`′´]el[·.•]labor/s'elabor/g" ${path}
+echo "Searching: \bs['’\`′´]el[·.•]labor in file ${path}"
+sed -i -E "s/\bs['’\`′´]el[·.•]labor/s'elabor/g" ${path}
 echo "Searching: \b([Ee])l[·.•]lecci in file ${path}"
 sed -i -E "s/\b([Ee])l[·.•]lecci/\1lecci/g" ${path}
 echo "Searching: \b([Tt])itul[·.•]l in file ${path}"
@@ -16793,10 +16795,10 @@ echo "Searching: \b([Ee]xce)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l 
 sed -i -E "s/\b([Ee]xce)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)(ents?)/\1l·l\3/g" ${path}
 echo "Searching: \b([Ii])nsta(l · l|l • l|l•l|l l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(ació|acions|ar|at|ades|ats|ada|ant)\b in file ${path}"
 sed -i -E "s/\b([Ii])nsta(l · l|l • l|l•l|l l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(ació|acions|ar|at|ades|ats|ada|ant)\b/\1nstal·l\3/g" ${path}
-echo "Searching: \bd['’`′´]Honolulu in file ${path}"
-sed -i -E "s/\bd['’`′´]Honolulu/de Honolulu/g" ${path}
-echo "Searching: \bd['’`′´]Hawaii in file ${path}"
-sed -i -E "s/\bd['’`′´]Hawaii/de Hawaii/g" ${path}
+echo "Searching: \bd['’\`′´]Honolulu in file ${path}"
+sed -i -E "s/\bd['’\`′´]Honolulu/de Honolulu/g" ${path}
+echo "Searching: \bd['’\`′´]Hawaii in file ${path}"
+sed -i -E "s/\bd['’\`′´]Hawaii/de Hawaii/g" ${path}
 echo "Searching: \brecullia\b in file ${path}"
 sed -i -E "s/\brecullia\b/recollia/g" ${path}
 echo "Searching: \brecullien\b in file ${path}"
@@ -16809,8 +16811,8 @@ echo "Searching: \bDe [Ee]l Caire\b in file ${path}"
 sed -i -E "s/\bDe [Ee]l Caire\b/Del Caire/g" ${path}
 echo "Searching: \bA [Ee]l Caire\b in file ${path}"
 sed -i -E "s/\bA [Ee]l Caire\b/Al Caire/g" ${path}
-echo "Searching: \bd['’`′´]a prop\b in file ${path}"
-sed -i -E "s/\bd['’`′´]a prop\b/de prop/g" ${path}
+echo "Searching: \bd['’\`′´]a prop\b in file ${path}"
+sed -i -E "s/\bd['’\`′´]a prop\b/de prop/g" ${path}
 echo "Searching: \bproduit\b in file ${path}"
 sed -i -E "s/\bproduit\b/produït/g" ${path}
 echo "Searching: \bNortamèrica\b in file ${path}"
@@ -16829,8 +16831,8 @@ echo "Searching: \b[Uu]niversitat [Dd]e Colúmbia\b in file ${path}"
 sed -i -E "s/\b[Uu]niversitat [Dd]e Colúmbia\b/Universitat Colúmbia/g" ${path}
 echo "Searching: \b[Uu]niversitat [Dd]e Harvard\b in file ${path}"
 sed -i -E "s/\b[Uu]niversitat [Dd]e Harvard\b/Universitat Harvard/g" ${path}
-echo "Searching: \bUniversitat d['’`′´]Harvard\b in file ${path}"
-sed -i -E "s/\bUniversitat d['’`′´]Harvard\b/Universitat Harvard/g" ${path}
+echo "Searching: \bUniversitat d['’\`′´]Harvard\b in file ${path}"
+sed -i -E "s/\bUniversitat d['’\`′´]Harvard\b/Universitat Harvard/g" ${path}
 echo "Searching: \bStalinista\b in file ${path}"
 sed -i -E "s/\bStalinista\b/Estalinista/g" ${path}
 echo "Searching: \bstalinistes\b in file ${path}"
@@ -16859,8 +16861,8 @@ echo "Searching: \bpal·lès\b in file ${path}"
 sed -i -E "s/\bpal·lès\b/palès/g" ${path}
 echo "Searching: \bpal·lesa\b in file ${path}"
 sed -i -E "s/\bpal·lesa\b/palesa/g" ${path}
-echo "Searching: \bd['’`′´]gost\b in file ${path}"
-sed -i -E "s/\bd['’`′´]gost\b/d'agost/g" ${path}
+echo "Searching: \bd['’\`′´]gost\b in file ${path}"
+sed -i -E "s/\bd['’\`′´]gost\b/d'agost/g" ${path}
 echo "Searching: \bcotubre\b in file ${path}"
 sed -i -E "s/\bcotubre\b/octubre/g" ${path}
 echo "Searching: \baigua bullint\b in file ${path}"
@@ -16925,8 +16927,8 @@ echo "Searching: \bzènit\b in file ${path}"
 sed -i -E "s/\bzènit\b/zenit/g" ${path}
 echo "Searching: \b([Aa])mbdos\b in file ${path}"
 sed -i -E "s/\b([Aa])mbdos\b/\1mbdós/g" ${path}
-echo "Searching: \b[ds]['’`′´]ambdos\b in file ${path}"
-sed -i -E "s/\b[ds]['’`′´]ambdos\b/d'ambdós/g" ${path}
+echo "Searching: \b[ds]['’\`′´]ambdos\b in file ${path}"
+sed -i -E "s/\b[ds]['’\`′´]ambdos\b/d'ambdós/g" ${path}
 echo "Searching: \b([Pp])endre\b in file ${path}"
 sed -i -E "s/\b([Pp])endre\b/\1rendre/g" ${path}
 echo "Searching: \b(llarg|curt) plaç\b in file ${path}"
@@ -17021,12 +17023,12 @@ echo "Searching: \bUs (de|del|d')\b in file ${path}"
 sed -i -E "s/\bUs (de|del|d')\b/Ús \1/g" ${path}
 echo "Searching: \bun us\b in file ${path}"
 sed -i -E "s/\bun us\b/un ús/g" ${path}
-echo "Searching: \bl['’`′´]us\b in file ${path}"
-sed -i -E "s/\bl['’`′´]us\b/l'ús/g" ${path}
-echo "Searching: \bd['’`′´]us\b in file ${path}"
-sed -i -E "s/\bd['’`′´]us\b/d'ús/g" ${path}
-echo "Searching: \bL['’`′´]us\b in file ${path}"
-sed -i -E "s/\bL['’`′´]us\b/L'ús/g" ${path}
+echo "Searching: \bl['’\`′´]us\b in file ${path}"
+sed -i -E "s/\bl['’\`′´]us\b/l'ús/g" ${path}
+echo "Searching: \bd['’\`′´]us\b in file ${path}"
+sed -i -E "s/\bd['’\`′´]us\b/d'ús/g" ${path}
+echo "Searching: \bL['’\`′´]us\b in file ${path}"
+sed -i -E "s/\bL['’\`′´]us\b/L'ús/g" ${path}
 echo "Searching: \bes es va\b in file ${path}"
 sed -i -E "s/\bes es va\b/es va/g" ${path}
 echo "Searching: \bAixò no obstant això\b in file ${path}"
