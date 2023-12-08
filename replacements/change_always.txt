@@ -561,7 +561,9 @@ composant component
 composarà compondrà
 composaran compondran
 "composar-lo" "compondre'l"
+"composar-los" "compondre'ls"
 "composar-ne" "compondre'n"
+"composar-nos" "compondre'ns"
 "composar-se" "compondre's"
 composar compondre
 composaren compongueren
@@ -806,10 +808,12 @@ descomposadors descomponedors
 descomposant descomponent
 descomposarà descompondrà
 descomposaran descompondran
-descomposar descompondre
 "descomposar-lo" "descompondre'l"
+"descomposar-los" "descompondre'ls"
+"descomposar-nos" "descompondre'ns"
 "descomposar-ne" "descompondre'n"
 "descomposar-se" "descompondre's"
+descomposar descompondre
 descomposat descompost
 Descomposat Descompost
 descomposats descomposts

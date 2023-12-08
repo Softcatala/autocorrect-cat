@@ -3873,8 +3873,12 @@ echo "Searching: composaran in file ${path}"
 sed -i "s/\bcomposaran\b/compondran/g" ${path}
 echo "Searching: composar\-lo in file ${path}"
 sed -i "s/\bcomposar\-lo\b/compondre'l/g" ${path}
+echo "Searching: composar\-los in file ${path}"
+sed -i "s/\bcomposar\-los\b/compondre'ls/g" ${path}
 echo "Searching: composar\-ne in file ${path}"
 sed -i "s/\bcomposar\-ne\b/compondre'n/g" ${path}
+echo "Searching: composar\-nos in file ${path}"
+sed -i "s/\bcomposar\-nos\b/compondre'ns/g" ${path}
 echo "Searching: composar\-se in file ${path}"
 sed -i "s/\bcomposar\-se\b/compondre's/g" ${path}
 echo "Searching: composar in file ${path}"
@@ -4349,14 +4353,18 @@ echo "Searching: descomposarà in file ${path}"
 sed -i "s/\bdescomposarà\b/descompondrà/g" ${path}
 echo "Searching: descomposaran in file ${path}"
 sed -i "s/\bdescomposaran\b/descompondran/g" ${path}
-echo "Searching: descomposar in file ${path}"
-sed -i "s/\bdescomposar\b/descompondre/g" ${path}
 echo "Searching: descomposar\-lo in file ${path}"
 sed -i "s/\bdescomposar\-lo\b/descompondre'l/g" ${path}
+echo "Searching: descomposar\-los in file ${path}"
+sed -i "s/\bdescomposar\-los\b/descompondre'ls/g" ${path}
+echo "Searching: descomposar\-nos in file ${path}"
+sed -i "s/\bdescomposar\-nos\b/descompondre'ns/g" ${path}
 echo "Searching: descomposar\-ne in file ${path}"
 sed -i "s/\bdescomposar\-ne\b/descompondre'n/g" ${path}
 echo "Searching: descomposar\-se in file ${path}"
 sed -i "s/\bdescomposar\-se\b/descompondre's/g" ${path}
+echo "Searching: descomposar in file ${path}"
+sed -i "s/\bdescomposar\b/descompondre/g" ${path}
 echo "Searching: descomposat in file ${path}"
 sed -i "s/\bdescomposat\b/descompost/g" ${path}
 echo "Searching: Descomposat in file ${path}"
@@ -14077,6 +14085,10 @@ echo "Searching: Mol·lècula in file ${path}"
 sed -i "s/\bMol·lècula\b/Molècula/g" ${path}
 echo "Searching: Mol·lècules in file ${path}"
 sed -i "s/\bMol·lècules\b/Molècules/g" ${path}
+echo "Searching: mol·lecular in file ${path}"
+sed -i "s/\bmol·lecular\b/molecular/g" ${path}
+echo "Searching: Mol·lecular in file ${path}"
+sed -i "s/\bMol·lecular\b/Molecular/g" ${path}
 echo "Searching: Sub\-campió in file ${path}"
 sed -i "s/\bSub\-campió\b/Subcampió/g" ${path}
 echo "Searching: sub\-campió in file ${path}"
@@ -16454,9 +16466,9 @@ sed -i "s/\bviviseció\b/vivisecció/g" ${path}
 echo "Searching: Viviseció in file ${path}"
 sed -i "s/\bViviseció\b/Vivisecció/g" ${path}
 echo "Searching: ([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú]) in file ${path}"
-sed -i -E "s/([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú])/\1l·l\3/g" ${path}
+sed -i -E "s/([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú])/\1l·l\2/g" ${path}
 echo "Searching: ([AEIOUÀÈÉÍÒÓÚ])(L··L|L · L|L • L|L•L|L· L|L\.L|L ·L|L· L|ĿL|L\.·L|L·\.L|L×L)([AEIOUÀÈÉÍÒÓÚ]) in file ${path}"
-sed -i -E "s/([AEIOUÀÈÉÍÒÓÚ])(L··L|L · L|L • L|L•L|L· L|L\.L|L ·L|L· L|ĿL|L\.·L|L·\.L|L×L)([AEIOUÀÈÉÍÒÓÚ])/\1L·L\32/g" ${path}
+sed -i -E "s/([AEIOUÀÈÉÍÒÓÚ])(L··L|L · L|L • L|L•L|L· L|L\.L|L ·L|L· L|ĿL|L\.·L|L·\.L|L×L)([AEIOUÀÈÉÍÒÓÚ])/\1L·L\2/g" ${path}
 echo "Searching: \b([Ee]l)·l(abor[àaeéi].+)\b in file ${path}"
 sed -i -E "s/\b([Ee]l)·l(abor[àaeéi].+)\b/\1\2/g" ${path}
 echo "Searching: \[\[kelvin\|kelvins\]\] in file ${path}"
@@ -16521,3 +16533,517 @@ echo "Searching: \b([Ll])a \[\[([^|\]]+\|)([Ee]sglésia)([^|\]]*)\]\] in file ${
 sed -i -E "s/\b([Ll])a \[\[([^|\]]+\|)([Ee]sglésia)([^|\]]*)\]\]/\1'[[\2\3\4]]/g" ${path}
 echo "Searching: (\d) hà\b in file ${path}"
 sed -i -E "s/(\d) hà\b/\1 ha/g" ${path}
+echo "Searching: \b([Dd])el +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b in file ${path}"
+sed -i -E "s/\b([Dd])el +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b/\1e l'\2\3/g" ${path}
+echo "Searching: \bal +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b in file ${path}"
+sed -i -E "s/\bal +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b/a l'\1\2/g" ${path}
+echo "Searching: \bel +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b in file ${path}"
+sed -i -E "s/\bel +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b/l'\1\2/g" ${path}
+echo "Searching: \bEl +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b in file ${path}"
+sed -i -E "s/\bEl +(11? )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)\b/L'\1\2/g" ${path}
+echo "Searching: \b([Ff])ins [ae]l (11? ) in file ${path}"
+sed -i -E "s/\b([Ff])ins [ae]l (11? )/\1ins a l'\2/g" ${path}
+echo "Searching: \b([Dd])el (11?) (al \d+ )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre) in file ${path}"
+sed -i -E "s/\b([Dd])el (11?) (al \d+ )(de gener|de febrer|de març|d'abril|de maig|de juny|de juliol|d'agost|de setembre|d'octubre|de novembre| de desembre)/\1e l'\2 \3\4/g" ${path}
+echo "Searching: \b([Dd])el (11?) (fins a) in file ${path}"
+sed -i -E "s/\b([Dd])el (11?) (fins a)/\1e l'\2 \3/g" ${path}
+echo "Searching: ''status quo'' in file ${path}"
+sed -i -E "s/''status quo''/''statu quo''/g" ${path}
+echo "Searching: \bl['’`′´][Oo]rde del Císter in file ${path}"
+sed -i -E "s/\bl['’`′´][Oo]rde del Císter/l'orde del Cister/g" ${path}
+echo "Searching: \b([Nn]otes|externs|enllaços) i [Rr]eferencies\b in file ${path}"
+sed -i -E "s/\b([Nn]otes|externs|enllaços) i [Rr]eferencies\b/\1 i referències/g" ${path}
+echo "Searching: \b([Ff])ins +la +((se[vu]a )?(\d+|dècada|mort|defunció|fi|temporada|campanya|desaparició|invasió|conquesta|frontera)) in file ${path}"
+sed -i -E "s/\b([Ff])ins +la +((se[vu]a )?(\d+|dècada|mort|defunció|fi|temporada|campanya|desaparició|invasió|conquesta|frontera))/\1ins a la \2/g" ${path}
+echo "Searching: \b([Ff])ins +els +(\d+) in file ${path}"
+sed -i -E "s/\b([Ff])ins +els +(\d+)/\1ins als \2/g" ${path}
+echo "Searching: \bde mitjans segle\b in file ${path}"
+sed -i -E "s/\bde mitjans segle\b/de mitjan segle/g" ${path}
+echo "Searching: \bmitjans segle\b in file ${path}"
+sed -i -E "s/\bmitjans segle\b/mitjan segle/g" ${path}
+echo "Searching: \bMitjans segle\b in file ${path}"
+sed -i -E "s/\bMitjans segle\b/Mitjan segle/g" ${path}
+echo "Searching: \b(en|benefici|valor|taxa|més|pèrdua|instal·lació) nét(a?) de\b in file ${path}"
+sed -i -E "s/\b(en|benefici|valor|taxa|més|pèrdua|instal·lació) nét(a?) de\b/\1 net\2 de/g" ${path}
+echo "Searching: \b([Pp]atrimoni) nét\b in file ${path}"
+sed -i -E "s/\b([Pp]atrimoni) nét\b/\1 net/g" ${path}
+echo "Searching: \b([AaEe])l? Estats Units in file ${path}"
+sed -i -E "s/\b([AaEe])l? Estats Units/\1ls Estats Units/g" ${path}
+echo "Searching: \b([Dd]e)l? Estats Units in file ${path}"
+sed -i -E "s/\b([Dd]e)l? Estats Units/\1ls Estats Units/g" ${path}
+echo "Searching: \b([Dd])['’`′´] *Estats Units in file ${path}"
+sed -i -E "s/\b([Dd])['’`′´] *Estats Units/\1els Estats Units/g" ${path}
+echo "Searching: \b([Dd])['’`′´] *EUA\b in file ${path}"
+sed -i -E "s/\b([Dd])['’`′´] *EUA\b/\1els EUA/g" ${path}
+echo "Searching: \bL'United\b in file ${path}"
+sed -i -E "s/\bL'United\b/El United/g" ${path}
+echo "Searching: \ba l'United\b in file ${path}"
+sed -i -E "s/\ba l'United\b/al United/g" ${path}
+echo "Searching: \bde l'United\b in file ${path}"
+sed -i -E "s/\bde l'United\b/del United/g" ${path}
+echo "Searching: \bper l'United\b in file ${path}"
+sed -i -E "s/\bper l'United\b/pel United/g" ${path}
+echo "Searching: \bl'United\b in file ${path}"
+sed -i -E "s/\bl'United\b/el United/g" ${path}
+echo "Searching: \b([Aa]) +Japó\b in file ${path}"
+sed -i -E "s/\b([Aa]) +Japó\b/\1l Japó/g" ${path}
+echo "Searching: \b([Dd])e +Japó\b in file ${path}"
+sed -i -E "s/\b([Dd])e +Japó\b/\1el Japó/g" ${path}
+echo "Searching: \b([Aa]) +Xina\b in file ${path}"
+sed -i -E "s/\b([Aa]) +Xina\b/\1 la Xina/g" ${path}
+echo "Searching: \b([Dd])e +Xina\b in file ${path}"
+sed -i -E "s/\b([Dd])e +Xina\b/\1e la Xina/g" ${path}
+echo "Searching: \bdel ([Ee])xèrcit\b in file ${path}"
+sed -i -E "s/\bdel ([Ee])xèrcit\b/de l'\1xèrcit/g" ${path}
+echo "Searching: \bal ([Ee])xèrcit\b in file ${path}"
+sed -i -E "s/\bal ([Ee])xèrcit\b/a l'\1xèrcit/g" ${path}
+echo "Searching: \bpel ([Ee])xèrcit\b in file ${path}"
+sed -i -E "s/\bpel ([Ee])xèrcit\b/per l'\1xèrcit/g" ${path}
+echo "Searching: \bEl ([Ee])xèrcit\b in file ${path}"
+sed -i -E "s/\bEl ([Ee])xèrcit\b/L'\1xèrcit/g" ${path}
+echo "Searching: \bel ([Ee])xèrcit\b in file ${path}"
+sed -i -E "s/\bel ([Ee])xèrcit\b/l'\1xèrcit/g" ${path}
+echo "Searching: \bdel ([Ii])mperi\b in file ${path}"
+sed -i -E "s/\bdel ([Ii])mperi\b/de l'\1mperi/g" ${path}
+echo "Searching: \bal ([Ii])mperi\b in file ${path}"
+sed -i -E "s/\bal ([Ii])mperi\b/a l'\1mperi/g" ${path}
+echo "Searching: \bpel ([Ii])mperi\b in file ${path}"
+sed -i -E "s/\bpel ([Ii])mperi\b/per l'\1mperi/g" ${path}
+echo "Searching: \bEl ([Ii])mperi\b in file ${path}"
+sed -i -E "s/\bEl ([Ii])mperi\b/L'\1mperi/g" ${path}
+echo "Searching: \bel ([Ii])mperi\b in file ${path}"
+sed -i -E "s/\bel ([Ii])mperi\b/l'\1mperi/g" ${path}
+echo "Searching: \b([Ll])['’`′´]([Uu]niversitat)\b in file ${path}"
+sed -i -E "s/\b([Ll])['’`′´]([Uu]niversitat)\b/\1a \2/g" ${path}
+echo "Searching: \b([Ii])ntrinca(ts?|des) in file ${path}"
+sed -i -E "s/\b([Ii])ntrinca(ts?|des)/\1ntrica\2/g" ${path}
+echo "Searching: \b([Tt])rascend(ents?\b|e?ix|ènci|ir\b|í\b|its?\b|ia\b|iren\b) in file ${path}"
+sed -i -E "s/\b([Tt])rascend(ents?\b|e?ix|ènci|ir\b|í\b|its?\b|ia\b|iren\b)/\1ranscend\2/g" ${path}
+echo "Searching: \b([Aa])bsorv([ieí]) in file ${path}"
+sed -i -E "s/\b([Aa])bsorv([ieí])/\1bsorb\2/g" ${path}
+echo "Searching: \b([Ii])ntal[·.•]l([aàeéo]) in file ${path}"
+sed -i -E "s/\b([Ii])ntal[·.•]l([aàeéo])/\1nstal·l\2/g" ${path}
+echo "Searching: \b([Cc])ol[·.•]lecion in file ${path}"
+sed -i -E "s/\b([Cc])ol[·.•]lecion/\1ol·leccion/g" ${path}
+echo "Searching: \b([Cc])ol[·.• ]lect in file ${path}"
+sed -i -E "s/\b([Cc])ol[·.• ]lect/\1ol·lect/g" ${path}
+echo "Searching: \b([Ii])l[·.• \"]+lustraci(ó|ons) in file ${path}"
+sed -i -E "s/\b([Ii])l[·.• \"]+lustraci(ó|ons)/\1l·lustraci\2/g" ${path}
+echo "Searching: \b([Ii])l([·.• \"]+| ?· | · ?)lustr([aei]) in file ${path}"
+sed -i -E "s/\b([Ii])l([·.• \"]+| ?· | · ?)lustr([aei])/\1l·lustr\3/g" ${path}
+echo "Searching: \b([Rr])el[·.•\-]laci in file ${path}"
+sed -i -E "s/\b([Rr])el[·.•\-]laci/\1elaci/g" ${path}
+echo "Searching: \b([Pp])restabl([ieí]) in file ${path}"
+sed -i -E "s/\b([Pp])restabl([ieí])/\1reestabl\2/g" ${path}
+echo "Searching: \b([Rr])eestabl([ieí]) in file ${path}"
+sed -i -E "s/\b([Rr])eestabl([ieí])/\1establ\2/g" ${path}
+echo "Searching: \b([Tt])rasport([aàés]) in file ${path}"
+sed -i -E "s/\b([Tt])rasport([aàés])/\1ransport\2/g" ${path}
+echo "Searching: \b([Dd])esacralitz([aàéie]) in file ${path}"
+sed -i -E "s/\b([Dd])esacralitz([aàéie])/\1essacralitz\2/g" ${path}
+echo "Searching: \b([Aa])consgu([eiíï]) in file ${path}"
+sed -i -E "s/\b([Aa])consgu([eiíï])/\1consegu\2/g" ${path}
+echo "Searching: \b([Aa])cosegu([eií]) in file ${path}"
+sed -i -E "s/\b([Aa])cosegu([eií])/\1consegu\2/g" ${path}
+echo "Searching: \b([Aa])conegu([eií]) in file ${path}"
+sed -i -E "s/\b([Aa])conegu([eií])/\1consegu\2/g" ${path}
+echo "Searching: \b([Aa])conseg([eií]) in file ${path}"
+sed -i -E "s/\b([Aa])conseg([eií])/\1consegu\2/g" ${path}
+echo "Searching: \b([Tt])ransllad([aàés]) in file ${path}"
+sed -i -E "s/\b([Tt])ransllad([aàés])/\1rasllad\2/g" ${path}
+echo "Searching: \b([Tt])ranspass([aàés]) in file ${path}"
+sed -i -E "s/\b([Tt])ranspass([aàés])/\1raspass\2/g" ${path}
+echo "Searching: \b([Ee])standaritz in file ${path}"
+sed -i -E "s/\b([Ee])standaritz/\1standarditz/g" ${path}
+echo "Searching: \b([Ee])scolp([ií]) in file ${path}"
+sed -i -E "s/\b([Ee])scolp([ií])/\1sculp\2/g" ${path}
+echo "Searching: \bfacil·lit in file ${path}"
+sed -i -E "s/\bfacil·lit/facilit/g" ${path}
+echo "Searching: \b([Rr])essucit([aeàéio]) in file ${path}"
+sed -i -E "s/\b([Rr])essucit([aeàéio])/\1essuscit\2/g" ${path}
+echo "Searching: \b([Rr])empla(ç[aeào]|c[eéi]) in file ${path}"
+sed -i -E "s/\b([Rr])empla(ç[aeào]|c[eéi])/\1eempla\2/g" ${path}
+echo "Searching: \b([Tt])ranquilitz in file ${path}"
+sed -i -E "s/\b([Tt])ranquilitz/\1ranquil·litz/g" ${path}
+echo "Searching: \b([Ii]nco)(por[aàeé]) in file ${path}"
+sed -i -E "s/\b([Ii]nco)(por[aàeé])/\1r\2/g" ${path}
+echo "Searching: \b(infli)n(g[ieí]) in file ${path}"
+sed -i -E "s/\b(infli)n(g[ieí])/\1\2/g" ${path}
+echo "Searching: \b([Cc])ontru([iïeí]) in file ${path}"
+sed -i -E "s/\b([Cc])ontru([iïeí])/\1onstru\2/g" ${path}
+echo "Searching: \b([Pp])ronuci([aoéiïeí]) in file ${path}"
+sed -i -E "s/\b([Pp])ronuci([aoéiïeí])/\1ronunci\2/g" ${path}
+echo "Searching: \b([Ee])xud([ae]) in file ${path}"
+sed -i -E "s/\b([Ee])xud([ae])/\1xsud\2/g" ${path}
+echo "Searching: \b([LlDd]['’][Ee])xud([ae]) in file ${path}"
+sed -i -E "s/\b([LlDd]['’][Ee])xud([ae])/\1xsud\2/g" ${path}
+echo "Searching: \b([Tt])utel[·.•]l([aàeéoi]) in file ${path}"
+sed -i -E "s/\b([Tt])utel[·.•]l([aàeéoi])/\1utel\2/g" ${path}
+echo "Searching: \b([Ss])ol[·.•]luci([oó]) in file ${path}"
+sed -i -E "s/\b([Ss])ol[·.•]luci([oó])/\1oluci\2/g" ${path}
+echo "Searching: \b([Cc])ontrol[·.•]l([aàeé]) in file ${path}"
+sed -i -E "s/\b([Cc])ontrol[·.•]l([aàeé])/\1ontrol\2/g" ${path}
+echo "Searching: \b([Cc])ol[·.•]l(onitz) in file ${path}"
+sed -i -E "s/\b([Cc])ol[·.•]l(onitz)/\1ol\2/g" ${path}
+echo "Searching: \b([Cc])el[·.•]lebr in file ${path}"
+sed -i -E "s/\b([Cc])el[·.•]lebr/\1elebr/g" ${path}
+echo "Searching: \b([Ss])e(l[·.•]|ŀ)leccion in file ${path}"
+sed -i -E "s/\b([Ss])e(l[·.•]|ŀ)leccion/\1eleccion/g" ${path}
+echo "Searching: \b([Cc])èl[·.•]lebr in file ${path}"
+sed -i -E "s/\b([Cc])èl[·.•]lebr/\1èlebr/g" ${path}
+echo "Searching: \b([Ss])el[·.•]leccion in file ${path}"
+sed -i -E "s/\b([Ss])el[·.•]leccion/\1eleccion/g" ${path}
+echo "Searching: \b([Ee])l[·.•]leg in file ${path}"
+sed -i -E "s/\b([Ee])l[·.•]leg/\1leg/g" ${path}
+echo "Searching: \b([Ee])l[·.•]labor in file ${path}"
+sed -i -E "s/\b([Ee])l[·.•]labor/\1labor/g" ${path}
+echo "Searching: \b([Cc]at[àa])l *[·.•] *l([ieo]) in file ${path}"
+sed -i -E "s/\b([Cc]at[àa])l *[·.•] *l([ieo])/\1l\2/g" ${path}
+echo "Searching: \bs['’`′´]el[·.•]labor in file ${path}"
+sed -i -E "s/\bs['’`′´]el[·.•]labor/s'elabor/g" ${path}
+echo "Searching: \b([Ee])l[·.•]lecci in file ${path}"
+sed -i -E "s/\b([Ee])l[·.•]lecci/\1lecci/g" ${path}
+echo "Searching: \b([Tt])itul[·.•]l in file ${path}"
+sed -i -E "s/\b([Tt])itul[·.•]l/\1itul/g" ${path}
+echo "Searching: \b([Ee])xil[·.•]li([aeàé]) in file ${path}"
+sed -i -E "s/\b([Ee])xil[·.•]li([aeàé])/\1xili\2/g" ${path}
+echo "Searching: \b([Rr])ecopil[·.•]l([oaeàé]) in file ${path}"
+sed -i -E "s/\b([Rr])ecopil[·.•]l([oaeàé])/\1ecopil\2/g" ${path}
+echo "Searching: \b([Pp])ostul[·.•]l([oaeàé]) in file ${path}"
+sed -i -E "s/\b([Pp])ostul[·.•]l([oaeàé])/\1ostul\2/g" ${path}
+echo "Searching: \b([Hh])umil[·.•]li([oaeàéï]) in file ${path}"
+sed -i -E "s/\b([Hh])umil[·.•]li([oaeàéï])/\1umili\2/g" ${path}
+echo "Searching: \b([Cc])ompil[·.•]l([oaeàé]) in file ${path}"
+sed -i -E "s/\b([Cc])ompil[·.•]l([oaeàé])/\1ompil\2/g" ${path}
+echo "Searching: \b([Ii])ndentifi in file ${path}"
+sed -i -E "s/\b([Ii])ndentifi/\1dentifi/g" ${path}
+echo "Searching: \b([Aa])dquer([ieí]) in file ${path}"
+sed -i -E "s/\b([Aa])dquer([ieí])/\1dquir\2/g" ${path}
+echo "Searching: \b([Aa])rrass([aeàé]) in file ${path}"
+sed -i -E "s/\b([Aa])rrass([aeàé])/\1rras\2/g" ${path}
+echo "Searching: \b([Tt])ran?svass([aeàé]) in file ${path}"
+sed -i -E "s/\b([Tt])ran?svass([aeàé])/\1ransvas\2/g" ${path}
+echo "Searching: \b([Tt])rasvass?([aeàé]) in file ${path}"
+sed -i -E "s/\b([Tt])rasvass?([aeàé])/\1ransvas\2/g" ${path}
+echo "Searching: \b([Dd])essign([ioaeàé]) in file ${path}"
+sed -i -E "s/\b([Dd])essign([ioaeàé])/\1esign\2/g" ${path}
+echo "Searching: \b([Ii])nagur([aàé]) in file ${path}"
+sed -i -E "s/\b([Ii])nagur([aàé])/\1naugur\2/g" ${path}
+echo "Searching: \b([Rr])einvindi([cq]) in file ${path}"
+sed -i -E "s/\b([Rr])einvindi([cq])/\1eivindi\2/g" ${path}
+echo "Searching: \b([Rr])evindi([cq]) in file ${path}"
+sed -i -E "s/\b([Rr])evindi([cq])/\1eivindi\2/g" ${path}
+echo "Searching: \b([Rr])einvidi([cq]) in file ${path}"
+sed -i -E "s/\b([Rr])einvidi([cq])/\1eivindi\2/g" ${path}
+echo "Searching: \b([Dd])irg(i[rtd]|í) in file ${path}"
+sed -i -E "s/\b([Dd])irg(i[rtd]|í)/\1irig\2/g" ${path}
+echo "Searching: \b([Ll])liut([aàé]) in file ${path}"
+sed -i -E "s/\b([Ll])liut([aàé])/\1luit\2/g" ${path}
+echo "Searching: \b([Ee])vaq[üu]([aeàéï]) in file ${path}"
+sed -i -E "s/\b([Ee])vaq[üu]([aeàéï])/\1vacu\2/g" ${path}
+echo "Searching: \b([Ee])xtrany in file ${path}"
+sed -i -E "s/\b([Ee])xtrany/\1strany/g" ${path}
+echo "Searching: \b([Dd])essist([ií]) in file ${path}"
+sed -i -E "s/\b([Dd])essist([ií])/\1esist\2/g" ${path}
+echo "Searching: \b([Ee])ntussiasm in file ${path}"
+sed -i -E "s/\b([Ee])ntussiasm/\1ntusiasm/g" ${path}
+echo "Searching: \b([Ee])mpresson([aeàéio]) in file ${path}"
+sed -i -E "s/\b([Ee])mpresson([aeàéio])/\1mpreson\2/g" ${path}
+echo "Searching: \b([Rr])essult([aeàéio]) in file ${path}"
+sed -i -E "s/\b([Rr])essult([aeàéio])/\1esult\2/g" ${path}
+echo "Searching: \b([Dd])essitj([aào]) in file ${path}"
+sed -i -E "s/\b([Dd])essitj([aào])/\1esitj\2/g" ${path}
+echo "Searching: \b([Dd])essit[jg]([eéi]) in file ${path}"
+sed -i -E "s/\b([Dd])essit[jg]([eéi])/\1esitg\2/g" ${path}
+echo "Searching: \b([Tt])ranstorn in file ${path}"
+sed -i -E "s/\b([Tt])ranstorn/\1rastorn/g" ${path}
+echo "Searching: \bpostpos([aeàé]) in file ${path}"
+sed -i -E "s/\bpostpos([aeàé])/pospos\1/g" ${path}
+echo "Searching: \bpostpos(in?)\b in file ${path}"
+sed -i -E "s/\bpostpos(in?)\b/pospos\1/g" ${path}
+echo "Searching: \b([Cc])ol *·*[·.•] *labor in file ${path}"
+sed -i -E "s/\b([Cc])ol *·*[·.•] *labor/\1ol·labor/g" ${path}
+echo "Searching: \b(als|dels|els|pels|Als|Dels|Els|Pels) EEUU\b in file ${path}"
+sed -i -E "s/\b(als|dels|els|pels|Als|Dels|Els|Pels) EEUU\b/\1 EUA/g" ${path}
+echo "Searching: \b([Cc]è)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l +· *l|l *· +l|ŀl|l\.·l|l·\.l)(ula|ules)\b in file ${path}"
+sed -i -E "s/\b([Cc]è)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l +· *l|l *· +l|ŀl|l\.·l|l·\.l)(ula|ules)\b/\1l·l\3/g" ${path}
+echo "Searching: \b([Cc]e)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l +· *l|l *· +l|ŀl|l\.·l|l·\.l)(ulars?)\b in file ${path}"
+sed -i -E "s/\b([Cc]e)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l +· *l|l *· +l|ŀl|l\.·l|l·\.l)(ulars?)\b/\1l·l\3/g" ${path}
+echo "Searching: \b([Ss]o)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)([ií]cit[uaeéài]) in file ${path}"
+sed -i -E "s/\b([Ss]o)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)([ií]cit[uaeéài])/\1l·l\3/g" ${path}
+echo "Searching: \b([Ii])nsta(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)aci(ó|ons)\b in file ${path}"
+sed -i -E "s/\b([Ii])nsta(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)aci(ó|ons)\b/\1nstal·laci\3/g" ${path}
+echo "Searching: \b([Ii])nsta(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aà][rv]) in file ${path}"
+sed -i -E "s/\b([Ii])nsta(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aà][rv])/\1nstal·l\3/g" ${path}
+echo "Searching: \b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)aboraci(ó|ons)\b in file ${path}"
+sed -i -E "s/\b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)aboraci(ó|ons)\b/\1ol·laboraci\3/g" ${path}
+echo "Searching: \b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)abor in file ${path}"
+sed -i -E "s/\b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)abor/\1ol·labor/g" ${path}
+echo "Searching: \b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)abor(a|ar|en|aren|à|ador|adora|adors|adores)\b in file ${path}"
+sed -i -E "s/\b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)abor(a|ar|en|aren|à|ador|adora|adors|adores)\b/\1ol·labor\3/g" ${path}
+echo "Searching: \b([Pp])e(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)ícul(a|es)\b in file ${path}"
+sed -i -E "s/\b([Pp])e(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)ícul(a|es)\b/\1el·lícul\3/g" ${path}
+echo "Searching: \b([Nn])ove(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(a|es)\b in file ${path}"
+sed -i -E "s/\b([Nn])ove(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(a|es)\b/\1ovel·l\3/g" ${path}
+echo "Searching: \b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)ecci in file ${path}"
+sed -i -E "s/\b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)ecci/\1ol·lecci/g" ${path}
+echo "Searching: \b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)o(c|qu) in file ${path}"
+sed -i -E "s/\b([Cc])o(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)o(c|qu)/\1ol·lo\3/g" ${path}
+echo "Searching: \b([Ee]xce)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)(ents?) in file ${path}"
+sed -i -E "s/\b([Ee]xce)(l··l|l · l|l • l|l•l|l +l|l· l|l\.l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)(ents?)/\1l·l\3/g" ${path}
+echo "Searching: \b([Ii])nsta(l · l|l • l|l•l|l l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(ació|acions|ar|at|ades|ats|ada|ant)\b in file ${path}"
+sed -i -E "s/\b([Ii])nsta(l · l|l • l|l•l|l l|l· l|l\.l|l-l|l\-l|l\"l|l ·l|l· l|ŀl|l\.·l|l·\.l)(ació|acions|ar|at|ades|ats|ada|ant)\b/\1nstal·l\3/g" ${path}
+echo "Searching: \bd['’`′´]Honolulu in file ${path}"
+sed -i -E "s/\bd['’`′´]Honolulu/de Honolulu/g" ${path}
+echo "Searching: \bd['’`′´]Hawaii in file ${path}"
+sed -i -E "s/\bd['’`′´]Hawaii/de Hawaii/g" ${path}
+echo "Searching: \brecullia\b in file ${path}"
+sed -i -E "s/\brecullia\b/recollia/g" ${path}
+echo "Searching: \brecullien\b in file ${path}"
+sed -i -E "s/\brecullien\b/recollien/g" ${path}
+echo "Searching: \bde [Ee]l Caire\b in file ${path}"
+sed -i -E "s/\bde [Ee]l Caire\b/del Caire/g" ${path}
+echo "Searching: \ba [Ee]l Caire\b in file ${path}"
+sed -i -E "s/\ba [Ee]l Caire\b/al Caire/g" ${path}
+echo "Searching: \bDe [Ee]l Caire\b in file ${path}"
+sed -i -E "s/\bDe [Ee]l Caire\b/Del Caire/g" ${path}
+echo "Searching: \bA [Ee]l Caire\b in file ${path}"
+sed -i -E "s/\bA [Ee]l Caire\b/Al Caire/g" ${path}
+echo "Searching: \bd['’`′´]a prop\b in file ${path}"
+sed -i -E "s/\bd['’`′´]a prop\b/de prop/g" ${path}
+echo "Searching: \bproduit\b in file ${path}"
+sed -i -E "s/\bproduit\b/produït/g" ${path}
+echo "Searching: \bNortamèrica\b in file ${path}"
+sed -i -E "s/\bNortamèrica\b/Nord-amèrica/g" ${path}
+echo "Searching: \b([Nn])ortameric(à|ana|ans|anes)\b in file ${path}"
+sed -i -E "s/\b([Nn])ortameric(à|ana|ans|anes)\b/\1ord-americ\2/g" ${path}
+echo "Searching: \b([Tt])riun(virat|virats|vir|virs)\b in file ${path}"
+sed -i -E "s/\b([Tt])riun(virat|virats|vir|virs)\b/\1rium\2/g" ${path}
+echo "Searching: \b([Aa])tribui(t|ts|da|des)\b in file ${path}"
+sed -i -E "s/\b([Aa])tribui(t|ts|da|des)\b/\1tribuï\2/g" ${path}
+echo "Searching: \bcontribuit\b in file ${path}"
+sed -i -E "s/\bcontribuit\b/contribuït/g" ${path}
+echo "Searching: \b[Uu]niversitat [Dd]e Yale\b in file ${path}"
+sed -i -E "s/\b[Uu]niversitat [Dd]e Yale\b/Universitat Yale/g" ${path}
+echo "Searching: \b[Uu]niversitat [Dd]e Colúmbia\b in file ${path}"
+sed -i -E "s/\b[Uu]niversitat [Dd]e Colúmbia\b/Universitat Colúmbia/g" ${path}
+echo "Searching: \b[Uu]niversitat [Dd]e Harvard\b in file ${path}"
+sed -i -E "s/\b[Uu]niversitat [Dd]e Harvard\b/Universitat Harvard/g" ${path}
+echo "Searching: \bUniversitat d['’`′´]Harvard\b in file ${path}"
+sed -i -E "s/\bUniversitat d['’`′´]Harvard\b/Universitat Harvard/g" ${path}
+echo "Searching: \bStalinista\b in file ${path}"
+sed -i -E "s/\bStalinista\b/Estalinista/g" ${path}
+echo "Searching: \bstalinistes\b in file ${path}"
+sed -i -E "s/\bstalinistes\b/estalinistes/g" ${path}
+echo "Searching: \bmantigut\b in file ${path}"
+sed -i -E "s/\bmantigut\b/mantingut/g" ${path}
+echo "Searching: \bel suficientment\b in file ${path}"
+sed -i -E "s/\bel suficientment\b/prou/g" ${path}
+echo "Searching: \bliquens\b in file ${path}"
+sed -i -E "s/\bliquens\b/líquens/g" ${path}
+echo "Searching: \blíquen\b in file ${path}"
+sed -i -E "s/\blíquen\b/liquen/g" ${path}
+echo "Searching: \bdirigr\b in file ${path}"
+sed -i -E "s/\bdirigr\b/dirigir/g" ${path}
+echo "Searching: \bdirgir\b in file ${path}"
+sed -i -E "s/\bdirgir\b/dirigir/g" ${path}
+echo "Searching: \bconvois\b in file ${path}"
+sed -i -E "s/\bconvois\b/combois/g" ${path}
+echo "Searching: \bconvoi\b in file ${path}"
+sed -i -E "s/\bconvoi\b/comboi/g" ${path}
+echo "Searching: \b([Ss])uministres\b in file ${path}"
+sed -i -E "s/\b([Ss])uministres\b/\1ubministraments/g" ${path}
+echo "Searching: \b([Ss])uministre\b in file ${path}"
+sed -i -E "s/\b([Ss])uministre\b/\1ubministrament/g" ${path}
+echo "Searching: \bpal·lès\b in file ${path}"
+sed -i -E "s/\bpal·lès\b/palès/g" ${path}
+echo "Searching: \bpal·lesa\b in file ${path}"
+sed -i -E "s/\bpal·lesa\b/palesa/g" ${path}
+echo "Searching: \bd['’`′´]gost\b in file ${path}"
+sed -i -E "s/\bd['’`′´]gost\b/d'agost/g" ${path}
+echo "Searching: \bcotubre\b in file ${path}"
+sed -i -E "s/\bcotubre\b/octubre/g" ${path}
+echo "Searching: \baigua bullint\b in file ${path}"
+sed -i -E "s/\baigua bullint\b/aigua bullent/g" ${path}
+echo "Searching: \bÚsos\b in file ${path}"
+sed -i -E "s/\bÚsos\b/Usos/g" ${path}
+echo "Searching: \búsos\b in file ${path}"
+sed -i -E "s/\búsos\b/usos/g" ${path}
+echo "Searching: \b([Cc])adascún\b in file ${path}"
+sed -i -E "s/\b([Cc])adascún\b/\1adascun/g" ${path}
+echo "Searching: ([Pp])rodueï(x|xen)\b in file ${path}"
+sed -i -E "s/([Pp])rodueï(x|xen)\b/\1roduei\2/g" ${path}
+echo "Searching: ([Ee])xten(gué|gueren|gués|gui)\b in file ${path}"
+sed -i -E "s/([Ee])xten(gué|gueren|gués|gui)\b/\1sten\2/g" ${path}
+echo "Searching: \b([Qq])una\b in file ${path}"
+sed -i -E "s/\b([Qq])una\b/\1uan/g" ${path}
+echo "Searching: \bultims\b in file ${path}"
+sed -i -E "s/\bultims\b/últims/g" ${path}
+echo "Searching: \bUltims\b in file ${path}"
+sed -i -E "s/\bUltims\b/Últims/g" ${path}
+echo "Searching: \bdesl\b in file ${path}"
+sed -i -E "s/\bdesl\b/dels/g" ${path}
+echo "Searching: \b([Ss])udest\b in file ${path}"
+sed -i -E "s/\b([Ss])udest\b/\1ud-est/g" ${path}
+echo "Searching: \b([Ss])udoest\b in file ${path}"
+sed -i -E "s/\b([Ss])udoest\b/\1ud-oest/g" ${path}
+echo "Searching: \b([Nn])ordest\b in file ${path}"
+sed -i -E "s/\b([Nn])ordest\b/\1ord-est/g" ${path}
+echo "Searching: \b([Nn])ordoest\b in file ${path}"
+sed -i -E "s/\b([Nn])ordoest\b/\1ord-oest/g" ${path}
+echo "Searching: \b([Ff])ianl in file ${path}"
+sed -i -E "s/\b([Ff])ianl/\1inal/g" ${path}
+echo "Searching: \b([Mm]o)l·l(ecular|ècula|ècules)\b in file ${path}"
+sed -i -E "s/\b([Mm]o)l·l(ecular|ècula|ècules)\b/\1l\2/g" ${path}
+echo "Searching: \bes troba propera de\b in file ${path}"
+sed -i -E "s/\bes troba propera de\b/es troba a prop de/g" ${path}
+echo "Searching: \bal vell mig\b in file ${path}"
+sed -i -E "s/\bal vell mig\b/al bell mig/g" ${path}
+echo "Searching: \b([Mm])i(l|l·l)en(is?)\b in file ${path}"
+sed -i -E "s/\b([Mm])i(l|l·l)en(is?)\b/\1il·lenn\3/g" ${path}
+echo "Searching: \bRel.lació\b in file ${path}"
+sed -i -E "s/\bRel.lació\b/Relació/g" ${path}
+echo "Searching: \bSibil.la\b in file ${path}"
+sed -i -E "s/\bSibil.la\b/Sibil·la/g" ${path}
+echo "Searching: \b([Dd]ece)(nis?)\b in file ${path}"
+sed -i -E "s/\b([Dd]ece)(nis?)\b/\1n\2/g" ${path}
+echo "Searching: \b([Ll]ínia|[Ll]ínies) de comandes\b in file ${path}"
+sed -i -E "s/\b([Ll]ínia|[Ll]ínies) de comandes\b/\1 d'ordres/g" ${path}
+echo "Searching: \bun àliga\b in file ${path}"
+sed -i -E "s/\bun àliga\b/una àliga/g" ${path}
+echo "Searching: \bun àguila\b in file ${path}"
+sed -i -E "s/\bun àguila\b/una àguila/g" ${path}
+echo "Searching: \bno violència\b in file ${path}"
+sed -i -E "s/\bno violència\b/no-violència/g" ${path}
+echo "Searching: \bun no metall\b in file ${path}"
+sed -i -E "s/\bun no metall\b/un no-metall/g" ${path}
+echo "Searching: \b([Cc])iencies([ ,]) in file ${path}"
+sed -i -E "s/\b([Cc])iencies([ ,])/\1iències\2/g" ${path}
+echo "Searching: \b([Mm])algat (que|això)\b in file ${path}"
+sed -i -E "s/\b([Mm])algat (que|això)\b/\1algrat \2/g" ${path}
+echo "Searching: \bzènit\b in file ${path}"
+sed -i -E "s/\bzènit\b/zenit/g" ${path}
+echo "Searching: \b([Aa])mbdos\b in file ${path}"
+sed -i -E "s/\b([Aa])mbdos\b/\1mbdós/g" ${path}
+echo "Searching: \b[ds]['’`′´]ambdos\b in file ${path}"
+sed -i -E "s/\b[ds]['’`′´]ambdos\b/d'ambdós/g" ${path}
+echo "Searching: \b([Pp])endre\b in file ${path}"
+sed -i -E "s/\b([Pp])endre\b/\1rendre/g" ${path}
+echo "Searching: \b(llarg|curt) plaç\b in file ${path}"
+sed -i -E "s/\b(llarg|curt) plaç\b/\1 termini/g" ${path}
+echo "Searching: \ba plaços\b in file ${path}"
+sed -i -E "s/\ba plaços\b/a terminis/g" ${path}
+echo "Searching: \bmig (plaç|termini)\b in file ${path}"
+sed -i -E "s/\bmig (plaç|termini)\b/mitjà termini/g" ${path}
+echo "Searching: \b([Ll])inial(s?)\b in file ${path}"
+sed -i -E "s/\b([Ll])inial(s?)\b/\1ineal\2/g" ${path}
+echo "Searching: \b([Ll])ini(a|es)\b in file ${path}"
+sed -i -E "s/\b([Ll])ini(a|es)\b/\1íni\2/g" ${path}
+echo "Searching: \bAmple de [Bb]anda\b in file ${path}"
+sed -i -E "s/\bAmple de [Bb]anda\b/Amplada de banda/g" ${path}
+echo "Searching: \bel seu ample de banda\b in file ${path}"
+sed -i -E "s/\bel seu ample de banda\b/la seva amplada de banda/g" ${path}
+echo "Searching: \bdel ample de banda\b in file ${path}"
+sed -i -E "s/\bdel ample de banda\b/de l'amplada de banda/g" ${path}
+echo "Searching: \bun ample de banda\b in file ${path}"
+sed -i -E "s/\bun ample de banda\b/una amplada de banda/g" ${path}
+echo "Searching: \bescàs ample de banda\b in file ${path}"
+sed -i -E "s/\bescàs ample de banda\b/escassa amplada de banda/g" ${path}
+echo "Searching: \bample de banda\b in file ${path}"
+sed -i -E "s/\bample de banda\b/amplada de banda/g" ${path}
+echo "Searching: \b(Nord|Sud)-Amèrica\b in file ${path}"
+sed -i -E "s/\b(Nord|Sud)-Amèrica\b/\1-amèrica/g" ${path}
+echo "Searching: \bpossbilitat(s?)\b in file ${path}"
+sed -i -E "s/\bpossbilitat(s?)\b/possibilitat\1/g" ${path}
+echo "Searching: \bpossiblitat(s?)\b in file ${path}"
+sed -i -E "s/\bpossiblitat(s?)\b/possibilitat\1/g" ${path}
+echo "Searching: \bpossibiltat(s?)\b in file ${path}"
+sed -i -E "s/\bpossibiltat(s?)\b/possibilitat\1/g" ${path}
+echo "Searching: \b([Ll])ínees\b in file ${path}"
+sed -i -E "s/\b([Ll])ínees\b/\1ínies/g" ${path}
+echo "Searching: \bEs (a dir|possible|impossible|molt)\b in file ${path}"
+sed -i -E "s/\bEs (a dir|possible|impossible|molt)\b/És \1/g" ${path}
+echo "Searching: \bes (a dir|possible|impossible|molt)\b in file ${path}"
+sed -i -E "s/\bes (a dir|possible|impossible|molt)\b/és \1/g" ${path}
+echo "Searching: \b([Aa]) la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Aa]) la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1l vessant \2/g" ${path}
+echo "Searching: \b([Pp])er la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Pp])er la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1el vessant \2/g" ${path}
+echo "Searching: \b([Dd])e la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Dd])e la vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1el vessant \2/g" ${path}
+echo "Searching: \bla vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\bla vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/el vessant \1/g" ${path}
+echo "Searching: \bLa vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\bLa vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/El vessant \1/g" ${path}
+echo "Searching: \b([Aa]) la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Aa]) la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1l seu vessant \2/g" ${path}
+echo "Searching: \b([Pp])er la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Pp])er la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1el seu vessant \2/g" ${path}
+echo "Searching: \b([Dd])e la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\b([Dd])e la se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/\1el seu vessant \2/g" ${path}
+echo "Searching: \bla se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\bla se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/el seu vessant \1/g" ${path}
+echo "Searching: \bLa se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b in file ${path}"
+sed -i -E "s/\bLa se[vu]a vessant (nord|sud|est|oest|occidental|oriental|meridional|septentrional)\b/El seu vessant \1/g" ${path}
+echo "Searching: \b([Aa])bans de què\b in file ${path}"
+sed -i -E "s/\b([Aa])bans de què\b/\1bans que/g" ${path}
+echo "Searching: \b([Aa])bans de que\b in file ${path}"
+sed -i -E "s/\b([Aa])bans de que\b/\1bans que/g" ${path}
+echo "Searching: \b([Dd])esprés de què\b in file ${path}"
+sed -i -E "s/\b([Dd])esprés de què\b/\1esprés que/g" ${path}
+echo "Searching: \b([Dd])esprés de que\b in file ${path}"
+sed -i -E "s/\b([Dd])esprés de que\b/\1esprés que/g" ${path}
+echo "Searching: \b([Cc])ontrarrest(a[^r].+)\b in file ${path}"
+sed -i -E "s/\b([Cc])ontrarrest(a[^r].+)\b/\1ontrarest\2/g" ${path}
+echo "Searching: \bes deu a que\b in file ${path}"
+sed -i -E "s/\bes deu a que\b/es deu al fet que/g" ${path}
+echo "Searching: \bes deu (principalment|probablement|segurament|possiblement|primordialment|bàsicament) a que\b in file ${path}"
+sed -i -E "s/\bes deu (principalment|probablement|segurament|possiblement|primordialment|bàsicament) a que\b/es deu \1 al fet que/g" ${path}
+echo "Searching: \bes deu a què\b in file ${path}"
+sed -i -E "s/\bes deu a què\b/es deu al fet que/g" ${path}
+echo "Searching: \bes deu (principalment|probablement|segurament|possiblement|primordialment|bàsicament) a què\b in file ${path}"
+sed -i -E "s/\bes deu (principalment|probablement|segurament|possiblement|primordialment|bàsicament) a què\b/es deu \1 al fet que/g" ${path}
+echo "Searching: \bdona lloc (a|al|als)\b in file ${path}"
+sed -i -E "s/\bdona lloc (a|al|als)\b/dóna lloc \1/g" ${path}
+echo "Searching: \b([Cc]o)n(tabilitz.+)\b in file ${path}"
+sed -i -E "s/\b([Cc]o)n(tabilitz.+)\b/\1mp\2/g" ${path}
+echo "Searching: \b([Ss])infòni(c|cs|ca|ques)\b in file ${path}"
+sed -i -E "s/\b([Ss])infòni(c|cs|ca|ques)\b/\1imfòni\2/g" ${path}
+echo "Searching: \b([Pp])el què fa a\b in file ${path}"
+sed -i -E "s/\b([Pp])el què fa a\b/\1el que fa a/g" ${path}
+echo "Searching: \b([Pp])er que fa a\b in file ${path}"
+sed -i -E "s/\b([Pp])er que fa a\b/\1el que fa a/g" ${path}
+echo "Searching: \b([Pp])er el que fa a\b in file ${path}"
+sed -i -E "s/\b([Pp])er el que fa a\b/\1el que fa a/g" ${path}
+echo "Searching: \bus (de|del|d')\b in file ${path}"
+sed -i -E "s/\bus (de|del|d')\b/ús \1/g" ${path}
+echo "Searching: \bUs (de|del|d')\b in file ${path}"
+sed -i -E "s/\bUs (de|del|d')\b/Ús \1/g" ${path}
+echo "Searching: \bun us\b in file ${path}"
+sed -i -E "s/\bun us\b/un ús/g" ${path}
+echo "Searching: \bl['’`′´]us\b in file ${path}"
+sed -i -E "s/\bl['’`′´]us\b/l'ús/g" ${path}
+echo "Searching: \bd['’`′´]us\b in file ${path}"
+sed -i -E "s/\bd['’`′´]us\b/d'ús/g" ${path}
+echo "Searching: \bL['’`′´]us\b in file ${path}"
+sed -i -E "s/\bL['’`′´]us\b/L'ús/g" ${path}
+echo "Searching: \bes es va\b in file ${path}"
+sed -i -E "s/\bes es va\b/es va/g" ${path}
+echo "Searching: \bAixò no obstant això\b in file ${path}"
+sed -i -E "s/\bAixò no obstant això\b/Això no obstant/g" ${path}
+echo "Searching: \baixò no obstant això\b in file ${path}"
+sed -i -E "s/\baixò no obstant això\b/això no obstant/g" ${path}
+echo "Searching: \bNo obstant això, això in file ${path}"
+sed -i -E "s/\bNo obstant això, això/Tanmateix, això/g" ${path}
+echo "Searching: \bNo obstant això això in file ${path}"
+sed -i -E "s/\bNo obstant això això/Tanmateix, això/g" ${path}
+echo "Searching: \bno obstant això, això in file ${path}"
+sed -i -E "s/\bno obstant això, això/tanmateix, això/g" ${path}
+echo "Searching: \bno obstant això això in file ${path}"
+sed -i -E "s/\bno obstant això això/tanmateix, això/g" ${path}
+echo "Searching: ([Ii]na)(gur.+?)\b in file ${path}"
+sed -i -E "s/([Ii]na)(gur.+?)\b/\1u\2/g" ${path}
+echo "Searching: \bmés allà\b in file ${path}"
+sed -i -E "s/\bmés allà\b/més enllà/g" ${path}
+echo "Searching: \brecolç in file ${path}"
+sed -i -E "s/\brecolç/recolz/g" ${path}

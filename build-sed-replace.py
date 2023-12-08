@@ -29,13 +29,15 @@ def init():
       if not found:
         print ("Error in line: ", line, "(", filePath, ")")
 
-    quotesRegexp = re.compile('^"([^"]+)" "([^"]+)" "(.+)"$')
+    quotesRegexp = re.compile('^"(.+)" "(.+)" "(.+)"$')
     for filePath in glob.glob("./replacements/*.regexp"):
       file = open(filePath, "r")
       for line in file.readlines():
         line = line.strip()
         if line.startswith('#'):
           continue
+        if "#" in line:
+          line = line.split("#")[0].strip()
         r = quotesRegexp.match(line)
         if r:
           src = r.group(1)

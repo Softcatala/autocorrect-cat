@@ -780,6 +780,8 @@ mol·lècula molècula
 mol·lècules molècules
 Mol·lècula Molècula
 Mol·lècules Molècules
+mol·lecular molecular
+Mol·lecular Molecular
 #besnet besnét
 #besneta besnéta
 #besnets besnéts
@@ -1278,3 +1280,7 @@ aumentats augmentats
 2ones 2es
 ámbit àmbit
 "l'ámbit" "l'àmbit"
+boiard boiar
+boiards boiars
+Boiard Boiar
+Boiards Boiars
