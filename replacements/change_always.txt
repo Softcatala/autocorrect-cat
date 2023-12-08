@@ -1,0 +1,3056 @@
+"mols altres" "molts altres"
+"hi ha prou amb" "n'hi ha prou amb"
+"Hi ha prou amb" "N'hi ha prou amb"
+"cap a allà" "cap allà"
+"cap a allí" "cap allí"
+"cap a ací" "cap ací"
+"cap a enrere" "cap enrere"
+"cap a endarrere" "cap endarrere"
+"cap a endavant" "cap endavant"
+"cap a arrere" "cap arrere"
+"l'individuu" "l'individu"
+2on 2n
+3er 3r
+4art 4t
+4arta 4a
+4artes 4es
+4arts 4ts
+4rt 4t
+aamb amb
+"a apart" "a part"
+"abans de que" "abans que"
+"Abans de que" "Abans que"
+abortament avortament
+abortaments avortaments
+àbsis absis
+Àbsis Absis
+absolutamnt absolutament
+acavaba acabava
+acavaben acabaven
+acavada acabada
+acavades acabades
+acavat acabat
+acavats acabats
+acavaven acabaven
+accès accés
+acepció accepció
+acepcions accepcions
+"acì" "ací"
+"Acì" "Ací"
+Acoblamnt Acoblament
+aconsegiur aconseguir
+aconsegut aconseguit
+aconseguts aconseguits
+acreixer acréixer
+acrèixer acréixer
+"actriu secundaria" "actriu secundària"
+actualemnt actualment
+Actualemnt Actualment
+actualmemt actualment
+Actualmemt Actualment
+actualmnet actualment
+addient adient
+addients adients
+adecuades adequades
+adecuat adequat
+adecuats adequats
+adeqüada adequada
+adeqüades adequades
+adeqüat adequat
+adeqüats adequats
+adhient adient
+adhients adients
+adicionals addicionals
+aeria aèria
+Aeria Aèria
+aeries aèries
+Aeries Aèries
+"a Estats Units" "als Estats Units"
+"A Estats Units" "Als Estats Units"
+afegueix afegeix
+aforamnet aforament
+agresives agressives
+"aigua pesada" "aigua pesant"
+"aigües a baix" "aigües avall"
+"aigües abaix" "aigües avall"
+"Aigües a baix" "Aigües avall"
+"Aigües abaix" "Aigües avall"
+"aigües a dalt" "aigües amunt"
+"aigües costeres" "aigües costaneres"
+aillà aïllà
+aillada aïllada
+aillades aïllades
+aillament aïllament
+aillar aïllar
+aillaren aïllaren
+aillat aïllat
+aillats aïllats
+airadament aïradament
+aixi així
+Aixi Així
+"aixì" "així"
+"Aixì" "Així"
+aixo això
+Aixo Això
+aixó això
+Aixó Això
+ajuntamnet ajuntament
+Ajuntamnet Ajuntament
+Ajuntamnet Ajuntament
+"a la seua vegada" "al seu torn"
+"a la seva vegada" "al seu torn"
+"A la seua vegada" "Al seu torn"
+"A la seva vegada" "Al seu torn"
+"al darrera" "al darrere"
+"Al darrera" "Al darrere"
+"al edifici" "a l'edifici"
+"a l'empar" "a l'empara"
+"a l'ensems" ensems
+"A l'ensems" Ensems
+"a les afores" "als afores"
+"A les afores" "Als afores"
+"a les rodalies de la ciutat" "a la rodalia de la ciutat"
+"A les rodalies de la ciutat" "A la rodalia de la ciutat"
+"al est" "a l'est"
+"Al est" "A l'est"
+"al estat" "a l'estat"
+"al Estat" "a l'Estat"
+aliançes aliances
+alicient al·licient
+alimentícia alimentària
+alimentici alimentari
+alimentícies alimentàries
+alimenticis alimentaris
+aliniada alineada
+Aliniada Alineada
+aliniades alineades
+Aliniades Alineades
+aliniament alineament
+aliniar alinear
+aliniat alineat
+Aliniat Alineat
+aliniats alineats
+Aliniats Alineats
+"al inici" "a l'inici"
+"Al inici" "A l'inici"
+al·legal alegal
+al·legals alegals
+alleugir alleugerir
+Alliberamnet Alliberament
+Alliberamnet Alliberament
+"al llar de" "al llarg de"
+"al llar del" "al llarg del"
+"al llar dels" "al llarg dels"
+"Al llar de" "Al llarg de"
+"Al llar del" "Al llarg del"
+"Al llar dels" "Al llarg dels"
+"al llarc" "al llarg"
+"al llargs" "al llarg"
+"all llarg" "al llarg"
+"All llarg" "Al llarg"
+"al matí següent" "l'endemà al matí"
+"Al matí següent" "L'endemà al matí"
+"al màxim esplendor" "a la màxima esplendor"
+almenades emmerletades
+almenat emmerletat
+almenats emmerletats
+"al oest" "a l'oest"
+"Al oest" "A l'oest"
+"al països" "als països"
+"als complexes" "als complexos"
+"als cuals" "als quals"
+"al seu lloc fou nomenat" "en lloc seu fou nomenat"
+"Al seu lloc fou nomenat" "En lloc seu fou nomenat"
+"al seu màxim esplendor" "a la seva màxima esplendor"
+"als índex" "als índexs"
+"al sur amb" "al sud amb"
+"als voltant" "al voltant"
+"Als voltant" "Al voltant"
+"alt-relleu" "alt relleu"
+"altrelleu" "alt relleu"
+"alt relleus" "alts relleus"
+"alt-relleus" "alts relleus"
+"altre vegada" "altra vegada"
+altrs altres
+"al voltants" "al voltant"
+"Al voltants" "Al voltant"
+"a ma alçada" "a mà alçada"
+"amb especies" "amb espècies"
+ambígua ambigua
+ambigüa ambigua
+ambues ambdues
+Ambues Ambdues
+"amenaça significativa per la supervivència" "amenaça significativa per a la supervivència"
+"a mitjans segle" "a mitjan segle"
+"A mitjans segle" "A mitjan segle"
+amotllar emmotllar
+àmpit ampit
+àmpits ampits
+àmpliamnet àmpliament
+àmpliamnet àmpliament
+Anastàssia Anastàsia
+aniràn aniran
+anterioment anteriorment
+Anterioment Anteriorment
+anticancerígena anticancerosa
+Anticancerígena Anticancerosa
+anticancerigen anticancerós
+Anticancerigen Anticancerós
+anticancerígenes anticanceroses
+Anticancerígenes Anticanceroses
+anticancerígens anticancerosos
+Anticancerígens Anticancerosos
+antigamnet antigament
+antigües antigues
+antirromà antiromà
+anulà anul·là
+anulant anul·lant
+anularen anul·laren
+"any en el que" "any en què"
+"any en que" "any en què"
+"data en la que" "data en què"
+"data en la què" "data en què"
+"data en que" "data en què"
+"any i mitjà" "any i mig"
+"anys desprès" "anys després"
+"anys en que" "anys en què"
+"anys i mitjà" "anys i mig"
+apareixer aparèixer
+apareixi aparegui
+apareixin apareguin
+apariència aparença
+Apariència Aparença
+apariències aparences
+Apariències Aparences
+"apart del" "a part del"
+"Apart del" "A part del"
+"apart dels" "a part dels"
+"Apart dels" "A part dels"
+apartir "a partir"
+Apartir "A partir"
+aproba aprova
+aprobà aprovà
+aprop "a prop"
+Aprop "A prop"
+aqeusta aquesta
+Aqeusta Aquesta
+aqeust aquest
+Aqeust Aquest
+aqeustes aquestes
+Aqeustes Aquestes
+aqeustos aquests
+Aqeustos Aquests
+aqeusts aquests
+Aqeusts Aquests
+aqueata aquesta
+"aquesta anys" "aquests anys"
+"Aquesta anys" "Aquests anys"
+"aquesta época" "aquesta època"
+"aquesta familia" "aquesta família"
+"Aquesta familia" "Aquesta família"
+"aques t" aquest
+"aquest casos" "aquests casos"
+"aquest espècie" "aquesta espècie"
+"Aquest espècie" "Aquesta espècie"
+"aquest països" "aquests països"
+"aquest procès" "aquest procés"
+"Aquest procès" "Aquest procés"
+"aquests cas" "aquest cas"
+aqueta aquesta
+Aqueta Aquesta
+aquet aquest
+Aquet Aquest
+aquetes aquestes
+Aquetes Aquestes
+aquetos aquests
+Aquetos Aquests
+aquets aquests
+aquets aquests
+Aquets Aquests
+Aquets Aquests
+"aquì" "aquí"
+"Aquì" "Aquí"
+aqusta aquesta
+Aqusta Aquesta
+aqusts aquests
+Aqusts Aquests
+"a redòs" "a redós"
+"A redòs" "A redós"
+arees àrees
+Arees Àrees
+"àrees costeres" "àrees costaneres"
+àres àrees
+Àres Àrees
+Argèlia Algèria
+argelià algerià
+Argelià Algerià
+argelí algerí
+Argelí Algerí
+Argumemt Argument
+"arreu del mon" "arreu del món"
+"Arreu del Mon" "Arreu del món"
+arrivaba arribava
+arrivaben arribaven
+"Article relacionats" "Articles relacionats"
+"Articles relacionat" "Articles relacionats"
+arxipelag arxipèlag
+arxivamnt arxivament
+asiduitat assiduïtat
+asistència assistència
+Asistència Assistència
+asistències assistències
+Asistències Assistències
+asociació associació
+Asociació Associació
+asociades associades
+Asociades Associades
+asociat associat
+Asociat Associat
+asociats associats
+Asociats Associats
+assiduitat assiduïtat
+assimetria asimetria
+"a totes llums" "sense cap mena de dubte"
+atravessada travessada
+atravessades travessades
+atravessant travessant
+"atravessar" "travessar"
+atravessats travessats
+atravessat travessat
+atrezzista attrezzista
+atrezzistes attrezzistes
+atrezzo attrezzo
+Atrezzo Attrezzo
+atrezzos attrezzos
+auqesta aquesta
+Auqesta Aquesta
+auqest aquest
+Auqest Aquest
+auqestes aquestes
+Auqestes Aquestes
+auqestos aquests
+Auqestos Aquests
+auqests aquests
+Auqests Aquests
+"auto-govern" "autogovern"
+autonòma autònoma
+Autonòma Autònoma
+autonòm autònom
+autonòmes autònomes
+autònomica autonòmica
+autònomic autonòmic
+autònomics autonòmics
+autònomiques autonòmiques
+autonòms autònoms
+"auto-retrat" "autoretrat"
+"Auto-retrat" "Autoretrat"
+"auto-retrats" "autoretrats"
+"Auto-retrats" "Autoretrats"
+avegades "a vegades"
+aventatge avantatge
+Aventatge Avantatge
+aventatges avantatges
+Aventatges Avantatges
+Avgda Av
+avistades albirades
+avistament albirament
+avistaments albiraments
+avistat albirat
+avistats albirats
+avortiu abortiu
+avortius abortius
+avortiva abortiva
+avortives abortives
+"baix el control" "sota el control"
+"baix la direcció" "sota la direcció"
+"baix-relleu" "baix relleu"
+baixrelleu "baix relleu"
+"baix relleus" "baixos relleus"
+"baix-relleus" "baixos relleus"
+baixrelleus "baixos relleus"
+"bassada en" "basada en"
+"bassada en" "basada en"
+"bassades en" "basades en"
+"bassades en" "basades en"
+"bassat en" "basat en"
+"bassats en" "basats en"
+"bèl•lica" "bèl·lica"
+"bèl•lic" "bèl·lic"
+"bèl•lics" "bèl·lics"
+"bèl•liques" "bèl·liques"
+beneficiència beneficència
+Beneficiència Beneficència
+bieni bienni
+bienis biennis
+bíped bípede
+bípeds bípedes
+boiard boiar
+Boiard Boiar
+boiards boiars
+Boiards Boiars
+breuemnt breument
+Brusel·les Brussel·les
+"cabdal anual" "cabal anual"
+"cabdal d'aigua" "cabal d'aigua"
+"cabdal del riu" "cabal del riu"
+"cabdal ecològic" "cabal ecològic"
+"cabdal màxim" "cabal màxim"
+"cabdal mensual" "cabal mensual"
+"cabdal mínim" "cabal mínim"
+"cabdal mitjà" "cabal mitjà"
+"cabdals d'aigua" "cabals d'aigua"
+"cabdal variable" "cabal variable"
+caça-bombarder "caça bombarder"
+caçabombarder "caça bombarder"
+Caça-bombarder "Caça bombarder"
+Caçabombarder "Caça bombarder"
+caça-bombarders "caces bombarders"
+caçabombarders "caces bombarders"
+Caça-bombarders "Caces bombarders"
+Caçabombarders "Caces bombarders"
+"cada kilometre" "cada quilòmetre"
+cadascún cadascun
+Cadascún Cadascun
+caiguè caigué
+cálcul càlcul
+Cálcul Càlcul
+cálculs càlculs
+Cálculs Càlculs
+calificació qualificació
+Calificació Qualificació
+calificades qualificades
+calificat qualificat
+"Callosa d'En Sarrià" "Callosa d'en Sarrià"
+cambiades canviades
+cambiat canviat
+cambiats canviats
+"càmera de comerç" "cambra de comerç"
+"Càmera de Comerç" "Cambra de Comerç"
+"campionat del mon" "campionat del món"
+"Campionat del mon" "Campionat del món"
+"Campionat del Mon" "Campionat del món"
+"cants rodats" "còdols"
+"cap a munt" "cap amunt"
+"cap el nord" "cap al nord"
+"Cap el segle" "Cap al segle"
+"Cap els segles" "Cap als segles"
+"cap el sud" "cap al sud"
+"cap l'est" "cap a l'est"
+"cap l'oest" "cap a l'oest"
+"cap per abaix" "cap per avall"
+caracteristiques característiques
+Caracteristiques Característiques
+càrnica càrnia
+càrnic carni
+càrnics carnis
+càrniques càrnies
+càrreg càrrec
+"cas en que" "cas en què"
+cassos casos
+"Castella-Lleó" "Castella i Lleó"
+cel·lebrà celebrà
+cel·lebració celebració
+cel·lebracions celebracions
+cel·lebrada celebrada
+cel·lebrades celebrades
+cel·lebrar celebrar
+cel·lebraren celebraren
+cel·lebrat celebrat
+cel·lebrats celebrats
+"cèl·lula cancerígena" "cèl·lula cancerosa"
+"cèl·lules cancerígenes" "cèl·lules canceroses"
+ceremònia cerimònia
+Ceremònia Cerimònia
+ceremònies cerimònies
+Ceremònies Cerimònies
+cèrvol cérvol
+Cèrvol Cérvol
+cèrvols cérvols
+cesat cessat
+ciéncia ciència
+Ciéncia Ciència
+"ciència ficció" "ciència-ficció"
+"Ciència ficció" "Ciència-ficció"
+ciéncies ciències
+Ciéncies Ciències
+"cinc cent" "cinc-cents"
+"cinc-cent" "cinc-cents"
+cinccents "cinc-cents"
+"cinquanta-cint" "cinquanta-cinc"
+cinquentena cinquantena
+"cint-i-vuit" "vint-i-vuit"
+"circumstància en la que" "circumstància en què"
+"circumstància en que" "circumstància en què"
+"circumstàncies en les que" "circumstàncies en què"
+"circumstàncies en que" "circumstàncies en què"
+"ciutats costeres" "ciutats costaneres"
+"ciutats limítrofs" "ciutats limítrofes"
+claretat claredat
+Claretat Claredat
+clàsica clàssica
+clàsic clàssic
+clàsics clàssics
+clasificació classificació
+clasificacions classificacions
+clàsiques clàssiques
+classifiació classificació 
+classifiacions classificacions 
+coal·lició coalició
+coal·licions coalicions
+"coincidir en què" "coincidir que"
+colaboració col·laboració
+Colaboració Col·laboració
+colaboracions col·laboracions
+Colaboracions Col·laboracions
+colaborà col·laborà
+Colaborà Col·laborà
+colaboraren col·laboraren
+Colaboraren Col·laboraren
+colecció col·lecció
+Colecció Col·lecció
+coleccions col·leccions
+Coleccions Col·leccions
+colectiu col·lectiu
+colectius col·lectius
+colectives col·lectives
+colisió col·lisió
+colisions col·lisions
+"col·laboració mútua" "col·laboració"
+"col lapse" "col·lapse"
+"col•lapse" "col·lapse"
+"col lectiva" "col·lectiva"
+"col.lectiva" "col·lectiva"
+"col•lectiva" "col·lectiva"
+"col lega" "col·lega"
+"col legi" "col·legi"
+"col•legi" "col·legi"
+"Col•legi" "Col·legi"
+"col legis" "col·legis"
+"col•legis" "col·legis"
+"col legues" "col·legues"
+coll·lboració col·laboració
+colocació col·locació
+colocacions col·locacions
+colocà col·locà
+colocades col·locades
+colocaren col·locaren
+colocat col·locat
+colocats col·locats
+"com a lider" "com a líder"
+comandamnt comandament
+"comarques limítrofs" "comarques limítrofes"
+"començ\+a" "començà"
+comencament començament
+"com millor actor" "com a millor actor"
+"com millor actriu" "com a millor actriu"
+compareixer comparèixer
+"competivitat" "competitivitat"
+"Competivitat" "Competitivitat"
+composa compon
+composà compongué
+Composà Compongué
+composada composta
+composades compostes
+Composada Composta
+Composades Compostes
+composadora componedora
+composador componedor
+composadores componedores
+composadors componedors
+composant component
+composarà compondrà
+composaran compondran
+"composar-lo" "compondre'l"
+"composar-ne" "compondre'n"
+"composar-se" "compondre's"
+composar compondre
+composaren compongueren
+composat compost
+composats composts
+Composat Compost
+Composats Composts
+composava componia
+composaven componien
+composem componem
+composen componen
+composi compongui
+composin componguin
+compossició composició
+Compossició Composició
+conciència consciència
+conciències consciències
+concient conscient
+concients conscients
+conectades connectades
+conectat connectat
+conectats connectats
+coneixament coneixement
+coneixaments coneixements
+coneixemnt coneixement
+coneixer conèixer
+coneixi conegui
+coneiximent coneixement
+coneiximents coneixements
+coneixin coneguin
+conexió connexió
+conexions connexions
+confòs confós
+confundadora cofundadora
+confundador cofundador
+confundadores cofundadores
+confundadors cofundadors
+confundit confós
+confundits confosos
+cònjugue cònjuge
+Cònjugue Cònjuge
+cònjugues cònjuges
+Cònjugues Cònjuges
+conjuntamemt conjuntament
+conjuntamnet conjuntament
+conmemoració commemoració
+conmemoracions commemoracions
+conmemorà commemorà
+connecció connexió 
+conneccions connexions
+"connexions vials" "connexions viàries"
+"Connexions vials" "Connexions viàries"
+#conreable cultivable
+#conreables cultivables
+conrreu conreu
+conrreus conreus
+conseguí aconseguí
+Conseguí Aconseguí
+conseguiren aconseguiren
+Conseguiren Aconseguiren
+conseguit aconseguit
+conseguits aconseguits
+conseqüencia conseqüència
+consequència conseqüència
+conseqüencies conseqüències
+Conseqüencies Conseqüències
+consequències conseqüències
+conservadurisme conservadorisme
+Conservadurisme Conservadorisme
+cónsol cònsol
+constament constantment
+constanment constantment
+cònsul cònsol
+cònsuls cònsols
+contè conté
+Contè Conté
+contigues contigües
+contigut contingut
+Contigut Contingut
+contiguts continguts
+Contiguts Continguts
+continuitat continuïtat
+continuitats continuïtats
+contrassenya contrasenya
+Contrassenya Contrasenya
+contrassenyes contrasenyes
+Contrassenyes Contrasenyes
+contrucció construcció
+contruccions construccions
+conviccio convicció
+còrner córner
+Còrner Córner
+còrrer córrer
+correspón correspon
+Correspón Correspon
+correspòn correspon
+Correspòn Correspon
+corretgir corregir
+cosos cossos
+Cosos Cossos
+cossac cosac
+cossacs cosacs
+"costat esquerra" "costat esquerre"
+"Costat esquerra" "Costat esquerre"
+costipat constipat
+costipats constipats
+coverta coberta
+covertes cobertes
+coverts coberts
+creixament creixement
+creixemnet creixement
+creixemnt creixement
+creixer créixer
+crèixer créixer
+creiximent creixement
+creuamemnt creuament
+cristalitza cristal·litza
+cristalitzà cristal·litzà
+cristalitzada cristal·litzada
+cristalitzades cristal·litzades
+cristalitzar cristal·litzar
+cristalitzar cristal·litzar
+cristalitzat cristal·litzat
+cristalitzats cristal·litzats
+cuadrúpeds quadrúpedes
+"curt plaç" "curt termini"
+"d'a bord" "de bord"
+"d'accès" "d'accés"
+"Daltra banda" "D'altra banda"
+"d'altre banda" "d'altra banda"
+"D'altre banda" "D'altra banda"
+"d'apariència" "d'aparença"
+"d'a prop" "de prop"
+"d'aprop" "de prop"
+"d'aquella época" "d'aquella època"
+"d' aquesta" "d'aquesta"
+daquesta "d'aquesta"
+"d'aquesta época" "d'aquesta època"
+"d' aquest" "d'aquest"
+daquest "d'aquest"
+"d' aquestes" "d'aquestes"
+daquestes "d'aquestes"
+"d'aquest espècie" "d'aquesta espècie"
+"d' aquestos" "d'aquests"
+daquestos "d'aquests"
+"d' aquests" "d'aquests"
+daquests "d'aquests"
+"d'aqueta" "d'aquesta"
+"d’aqueta" "d'aquesta"
+"d'aquet" "d'aquest"
+"d’aquet" "d'aquest"
+"d'aquetes" "d'aquestes"
+"d’aquetes" "d'aquestes"
+"d'aquetos" "d'aquests"
+"d’aquetos" "d'aquests"
+"d'aquets" "d'aquests"
+"d'aquets" "d'aquests"
+"d’aquets" "d'aquests"
+"data en que" "data en què"
+"d'atravessar" "de travessar"
+"d'atres" "d'altres"
+"D'atres" "D'altres"
+"d'auqest" "d'aquest"
+"davant daixò" "davant d'això"
+"d'avantmà" "de bestreta"
+ddel del
+ddels dels
+"de aconseguir" "d'aconseguir"
+"década dels" "dècada dels"
+décades dècades
+"de caire" "de caràcter"
+"de carrega" "de càrrega"
+deceni decenni
+decenis decennis
+decició decisió
+decicions decisions
+"decisions presses" "decisions preses"
+decissiu decisiu
+decissius decisius
+decissiva decisiva
+decissives decisives
+decliu declivi
+decobrir descobrir
+decreixer decréixer
+decrèixer decréixer
+"decrets lleis" "decrets llei"
+"decrets-lleis" "decrets llei"
+"de equacions" "d'equacions"
+deesa deessa
+Deesa Deessa
+deeses deesses
+Deeses Deesses
+"de Espanya" "d'Espanya"
+"Degut a que" "Com que"
+dèia deia
+"del avió" "de l'avió"
+"del darrera" "del darrere"
+"del edifici" "de l'edifici"
+"de les afores" "dels afores"
+"del esmentat" "de l'esmentat"
+"del estat" "de l'estat" 
+"del Estat" "de l'Estat" 
+"del Estats Units" "dels Estats Units"
+"del est" "de l'est"
+"del individu" "de l'individu"
+"del inici" "de l'inici"
+"del interval" "de l'interval"
+"d'èlit" "d'elit"
+"del l'any" "de l'any"
+"del lider" "del líder"
+"del màxim esplendor" "de la màxima esplendor"
+"del oest" "de l'oest"
+"del ordre" "de l'ordre"
+"del països" "dels països"
+"del procès" "del procés"
+"del procès" "del procés"
+"dels complexes" "dels complexos"
+"dels cuals" "dels quals"
+"dels dècada" "de la dècada"
+"del seu màxim esplendor" "de la seva màxima esplendor"
+"dels índex" "dels índexs"
+"de mateix nom" "del mateix nom"
+"de màxim esplendor" "de màxima esplendor"
+depen depèn
+Depen Depèn
+desapareixer desaparèixer
+desapareixi desaparegui
+desapareixin desapareguin
+desaventatge desavantatge
+Desaventatge Desavantatge
+desaventatges desavantatges
+Desaventatges Desavantatges
+descendets descendents
+descobriemnt descobriment
+descomposada descomposta
+descomposa descompon
+descomposa descompon
+descomposadora descomponedora
+descomposador descomponedor
+descomposadores descomponedores
+descomposadors descomponedors
+descomposant descomponent
+descomposarà descompondrà
+descomposaran descompondran
+descomposar descompondre
+"descomposar-lo" "descompondre'l"
+"descomposar-ne" "descompondre'n"
+"descomposar-se" "descompondre's"
+descomposat descompost
+Descomposat Descompost
+descomposats descomposts
+descomposava descomponia
+descomposaven descomponien
+descomposem descomponem
+descomposen descomponen
+descomposin descomponguin
+desconeixer desconèixer
+descoverta descoberta
+descovert descobert
+descovertes descobertes
+descoverts descoberts
+describint descrivint
+descubreix descobreix
+descubreixen descobreixen
+descubriren descobriren
+"de sde" "des de"
+"des de el" "des del"
+"Des de el" "Des del"
+"des de els" "des dels"
+"Des de els" "Des dels"
+"des de una" "des d'una"
+"Des de una" "Des d'una"
+"des de un" "des d'un"
+"Des de un" "Des d'un"
+"des de unes" "des d'unes"
+"Des de unes" "Des d'unes"
+"des de uns" "des d'uns"
+"Des de uns" "Des d'uns"
+deseguida "de seguida"
+desembarcamnet desembarcament
+desemebre desembre
+desició decisió
+desició decisió
+desicions decisions
+desmereixer desmerèixer
+"d'especies" "d'espècies"
+"d'especimen" "d'espècimen"
+"d'especimens" "d'espècimens"
+"d'especímens" "d'espècimens"
+despren desprèn 
+Despren Desprèn
+"després daixò" "després d'això"
+"Després daixò" "Després d'això"
+"Desprès d'això" "Després d'això"
+"Despré sde" "Després de"
+"Desprès de" "Després de"
+"Desprès del" "Després del"
+"Desprès dels" "Després dels"
+"després de que" "després que"
+"Després de que" "Després que"
+despres després
+"d'espressió" "d'expressió"
+"des què" "des que"
+"Des què" "Des que"
+desrés després
+Desrés Després
+desseguida "de seguida"
+Desseguida "De seguida"
+dessig desig
+dessigs desigs
+dessitjos desitjos
+"d'estàndars" "d'estàndards"
+"de unes" "d'unes"
+"de uns" "d'uns"
+"d'evaluar" "d'avaluar"
+"de vegada en quan" "de tant en tant"
+"De vegada en quan" "De tant en tant"
+devegades "de vegades"
+"d'exilar" "d'exiliar"
+"d'exil·liar" "d'exiliar"
+"d'exit" "d'èxit"
+"d'éxit" "d'èxit"
+"d'éxits" "d'èxits"
+"d'Hausburg" "d'Habsburg"
+"d'Huelva" "de Huelva"
+diagnòsi diagnosi
+diametre diàmetre
+dictàmen dictamen
+dictamens dictàmens
+dieuen diuen
+"diferpencia" "diferència"
+"diferpencies" "diferències"
+difòs difós
+diguè digué
+Diguè Digué
+diguès digués
+"d'improvització" "d'improvisació"
+"d'indentitat" "d'identitat"
+dinosauri dinosaure
+Dinosauri Dinosaure
+dinosauris dinosaures
+Dinosauris Dinosaures
+"d'instalació" "d'instal·lació"
+"d'instalacions" "d'instal·lacions"
+"d'instalar" "d'instal·lar"
+"directa o indirectament" "directament o indirecta"
+dirgida dirigida
+dirgides dirigides
+dirgí dirigí
+dirgir dirigir
+dirgit dirigit
+dirgits dirigits
+discontinuitat discontinuïtat
+discontinuitats discontinuïtats
+discorrés discorregués
+diseny disseny
+#Diseny Disseny
+disenys dissenys
+Disenys Dissenys
+disgressió digressió
+disgressions digressions
+disol dissol
+disoldre dissoldre
+"disoldre'l" "dissoldre'l"
+disolent dissolent
+"disolent-se" "dissolent-se"
+disolució dissolució
+disolucions dissolucions
+disolut dissolut
+disoluts dissoluts
+disponiblitat disponibilitat
+Disponiblitat Disponibilitat
+dissolguent dissolent
+dissuasòria dissuasiva
+dissuasori dissuasiu
+dissuasòries dissuasives
+dissuasoris dissuasius
+disuadí dissuadí
+disuadiren dissuadiren
+"disuadit" "dissuadit"
+divertimemt divertiment
+divesos diversos
+docns doncs
+docuemnt document
+#"dóna a un patí" "dóna a un pati"
+#"dona lloc" "dóna lloc"
+#"Dona lloc" "Dóna lloc"
+#"dona nom" "dóna nom"
+#"Dona nom" "Dóna nom"
+"donar la volta al món" "fer la volta al món"
+"donar passes" "fer passes"
+"donar passos" "fer passos"
+"donar una passa" "fer una passa"
+"donar un pas" "fer un pas"
+"donar un salt" "fer un salt"
+"donà un pas" "féu un pas"
+"Donà un pas" "Féu un pas"
+"donà un salt" "féu un salt"
+"Donà un salt" "Féu un salt"
+donçs doncs
+dónen donen
+"d'orígen" "d'origen"
+"D'orígen" "D'origen"
+"d'origens" "d'orígens"
+"D'origens" "D'orígens"
+"dos cent" "dos-cents"
+"dos-cent" "dos-cents"
+doscents "dos-cents"
+"d'questa" "d'aquesta"
+"d'quest" "d'aquest"
+"d'questes" "d'aquestes"
+"d'questos" "d'aquests"
+"d'quests" "d'aquests"
+"dreta i esquerre" "dreta i esquerra"
+"dubte de que" "dubte que"
+"dubtes de que" "dubtes que"
+duguè dugué
+Duguè Dugué
+duguès dugués
+"d¡una" "d'una"
+"d' una" "d'una"
+"d'una época" "d'una època"
+"d'un àrea" "d'una àrea"
+"d'un arrel" "d'una arrel"
+"d¡un" "d'un"
+"d' un" "d'un"
+"dunes costeres" "dunes costaneres"
+"d¡unes" "d'unes"
+"d' unes" "d'unes"
+"d¡uns" "d'uns"
+"d' uns" "d'uns"
+durnat durant
+Durnat Durant
+"d'us" "d'ús"
+eclosionen "es desclouen"
+ecònomica econòmica
+econòmicamnet econòmicament
+ecònomic econòmic
+ecònomics econòmics
+ecònomiques econòmiques
+edfici edifici
+Edfici Edifici
+edifci edifici
+Edifci Edifici
+"edifici annexe" "edifici annex"
+"edificis annexes" "edificis annexos"
+egues egües
+"eïna" "eina"
+elapè elapé
+elapès elapés
+"el casos" "els casos"
+"El casos" "Els casos"
+"el complexe" "el complex"
+eligir elegir
+eligit elegit
+elíptic el·líptic
+elíptics el·líptics
+elíptiques el·líptiques
+èlit elit
+Èlit Elit
+èlits elits
+Èlits Elits
+el·lectoral electoral
+el·lectorals electorals
+"el lider" "el líder"
+"el màxim esplendor" "la màxima esplendor"
+"el països" "els països"
+"el proces" "el procés"
+"El proces" "El procés"
+"el procès" "el procés"
+"El procès" "El procés"
+"el progrès" "el progrés"
+"El que si és cert és que" "El que sí que és cert és que"
+"El que sí és cert és que" "El que sí que és cert és que"
+"els casos en que" "els casos en què"
+"els complexes" "els complexos"
+"Els complexes" "Els complexos"
+"els cuals" "els quals"
+"els cultivars" "les cultivars"
+"Els cultivars" "Les cultivars"
+"els dècada" "la dècada"
+"el seu el seu" "el seu"
+"el seu màxim esplendor" "la seva màxima esplendor"
+"els índex" "els índexs"
+"els municipi" "els municipis"
+"Els municipi" "Els municipis"
+"els ordenadors" "els ordinadors"
+"el únic" "l'únic"
+embaixada ambaixada
+Embaixada Ambaixada
+embaixades ambaixades
+Embaixades Ambaixades
+emntre mentre
+emocionalemnt emocionalment
+"empren el seu viatge" "emprèn el seu viatge"
+"empren un viatge" "emprèn un viatge"
+"en anterioritat" "amb anterioritat"
+"En anterioritat" "Amb anterioritat"
+"encarà que" "encara que"
+"Encarà que" "Encara que"
+encèn encén
+encuadernació enquadernació
+encuadernacions enquadernacions
+endarrera endarrere
+Endarrera Endarrere
+"en el any" "en l'any"
+"En el any" "En l'any"
+"en el edifici" "en l'edifici"
+"En el edifici" "En l'edifici"
+"en en el" "en el"
+"en en els" "en els"
+"en en la" "en la"
+"en en les" "en les"
+enèssima enèsima
+enèssim enèsim
+enfermetat malaltia
+enfermetats malalties
+enfoc enfocament
+Enfoc Enfocament
+"en linia" "en línia"
+"En linia" "En línia"
+"Enllaço externs" "Enllaços externs"
+Enllacos Enllaços
+"Enllaços esterns" "Enllaços externs"
+"Enllaços extern" "Enllaços externs"
+"Enllaços externos" "Enllaços externs"
+"Enllaços externs s" "Enllaços externs"
+"Enllaçs externs" "Enllaços externs"
+"Enlla\+os externs" "Enllaços externs"
+ennuig enuig
+"en odre" "en ordre"
+enormememt enormement
+"en posterioritat" "amb posterioritat"
+"en posterioritat" "amb posterioritat"
+"En posterioritat" "Amb posterioritat"
+enregistramnet enregistrament
+enrera enrere
+Enrera Enrere
+enrrera enrere
+enrrere enrere
+"ens atenem a" "ens atenim a"
+"ens atenem al" "ens atenim al"
+"ens atenem als" "ens atenim als"
+"en sí mateixa" "en si mateixa"
+"en sí mateix" "en si mateix"
+"en sí mateixes" "en si mateixes"
+"en sí mateixos" "en si mateixos"
+entèn entén
+"entre parèntesi" "entre parèntesis"
+"entre parèntesi" "entre parèntesis"
+"Entre parèntesi" "Entre parèntesis"
+enverinemnt enverinament
+"època en la que" "època en què"
+"època en la què" "època en què"
+"època en que" "època en què"
+"època en que" "època en què"
+eqüació equació
+eqüacions equacions
+equinoci equinocci
+Equinoci Equinocci
+equinocis equinoccis
+éren eren
+Éren Eren
+errònea errònia
+erròniamnet erròniament
+"es a dir" "és a dir"
+"Es a dir" "És a dir"
+"és adir" "és a dir"
+escany escó
+escanys escons
+"es caracteritza per que" "es caracteritza pel fet que"
+"Es caracteritza per que" "Es caracteritza pel fet que"
+"es caracteritza per què" "es caracteritza pel fet que"
+"Es caracteritza per què" "Es caracteritza pel fet que"
+"es caracteritzava per que" "es caracteritzava pel fet que"
+"Es caracteritzava per que" "Es caracteritzava pel fet que"
+"es caracteritzava per què" "es caracteritzava pel fet que"
+"Es caracteritzava per què" "Es caracteritzava pel fet que"
+"es caracteritzaven per que" "es caracteritzaven pel fet que"
+"Es caracteritzaven per que" "Es caracteritzaven pel fet que"
+"es caracteritzaven per què" "es caracteritzaven pel fet que"
+"Es caracteritzaven per què" "Es caracteritzaven pel fet que"
+"es caracteritzen per que" "es caracteritzen pel fet que"
+"Es caracteritzen per que" "Es caracteritzen pel fet que"
+"es caracteritzen per què" "es caracteritzen pel fet que"
+"Es caracteritzen per què" "Es caracteritzen pel fet que"
+escarcer escarser
+escarcers escarsers
+escases escasses
+escasetat escassetat
+esciure escriure
+escolleixen escullen
+escolleix escull
+escribint escrivint
+escrire escriure
+escrti escrit
+escruire escriure
+escrure escriure
+"son deguts" "són deguts"
+"son degudes" "són degudes"
+"es degut" "és degut"
+"es deguda" "és deguda"
+"Es degut" "És degut"
+"és degut a que" "és degut al fet que"
+"es deu a que" "es deu al fet que"
+"es devia a que" "es devia al fet que"
+esdevinguè esdevingué
+Esdevinguè Esdevingué
+esdevinguès esdevingués
+esencialment essencialment
+Esencialment Essencialment
+"ës" "És"
+"Ës" "És"
+"és escasa" "és escassa"
+"es fà" "es fa"
+"es fagi" "es faci"
+"es fagin" "es facin"
+"és fa servir" "es fa servir"
+"És fa servir" "Es fa servir"
+"és lider" "és líder"
+esmemt esment
+"es nomenada" "és nomenada"
+"Es nomenada" "És nomenada"
+"es nomenat" "és nomenat"
+"Es nomenat" "És nomenat"
+especialemnt especialment
+especialmemt especialment
+especímen espècimen
+especímens espècimens
+espectació expectació
+espectativa expectativa
+Espectativa Expectativa
+espectatives expectatives
+Espectatives Expectatives
+"esperança de que" "esperança que"
+"esperances de que" "esperances que"
+"es podría" "es podria"
+"Es podría" "Es podria"
+"es possa" "es posa"
+"es possés" "es posés"
+espressament expressament
+"es recolectava" "es recol·lectava"
+"es refereix a que" "es refereix al fet que"
+"es refereixen a que" "es refereixen al fet que"
+"es referia a que" "es referia al fet que"
+"es remonta" "es remunta"
+"es remontava" "es remuntava"
+"es remontaven" "es remuntaven"
+"es remonten" "es remunten"
+"es ressol" "es resol"
+esriure escriure
+èssers éssers
+éss és
+"es situada" "és situada"
+"Es situada" "És situada"
+"es situat" "és situat"
+"Es situat" "És situat"
+"està atribuïda" "és atribuïda"
+"està atribuït" "és atribuït"
+"està d'acord en que" "està d'acord que"
+"està d'acord en què" "està d'acord que"
+"es tà" "està"
+"estan atribuïdes" "són atribuïdes"
+"estan atribuïts" "són atribuïts"
+"estan considerades" "són considerades"
+"Estan considerades" "Són considerades"
+"estan considerats" "són considerats"
+"Estan considerats" "Són considerats"
+"estan d'acord en que" "estan d'acord que"
+"estan d'acord en què" "estan d'acord que"
+estàndar estàndard
+Estàndar Estàndard
+EStàn Estan
+"esta situada" "està situada"
+"Esta situada" "Està situada"
+"esta situat" "està situat"
+"Esta situat" "Està situat"
+estatounidenca estatunidenca
+estatounidenc estatunidenc
+estatounidencs estatunidencs
+estatounidenques estatunidenques
+"estats limítrofes" "estats limítrofs"
+"Estats Unit" "Estats Units"
+"Estat Units" "Estats Units"
+"estatu quo" "statu quo"
+"estatus quo" "statu quo"
+"esta ubicada" "està ubicada"
+"Esta ubicada" "Està ubicada"
+"esta ubicat" "està ubicat"
+"Esta ubicat" "Està ubicat"
+"estava d'acord en que" "estava d'acord que"
+"estava d'acord en què" "estava d'acord que"
+"estaven d'acord en que" "estaven d'acord que"
+"estaven d'acord en què" "estaven d'acord que"
+estàven estaven
+estèn estén
+Estèn Estén
+estoicisme estoïcisme
+estònies estonianes
+estoni estonià
+estonis estonians
+"es troba ubicada" "està ubicada"
+"Es troba ubicada" "Està ubicada"
+"es troba ubicat" "està ubicat"
+"Es troba ubicat" "Està ubicat"
+"es trobava ubicada" "estava ubicada"
+"Es trobava ubicada" "Estava ubicada"
+"es trobava ubicat" "estava ubicat"
+"Es trobava ubicat" "Estava ubicat"
+"es trobaven ubicades" "estaven ubicades"
+"Es trobaven ubicades" "Estaven ubicades"
+"es trobaven ubicats" "estaven ubicats"
+"Es trobaven ubicats" "Estaven ubicats"
+"es troben ubicades" "estan ubicades"
+"Es troben ubicades" "Estan ubicades"
+"es troben ubicats" "estan ubicats"
+"Es troben ubicats" "Estan ubicats"
+"é suna" "és una"
+"é sun" "és un"
+"es usada" "és usada"
+"Es usada" "És usada"
+"es usat" "és usat"
+"Es usat" "És usat"
+"es utilitzada" "és utilitzada"
+"Es utilitzada" "És utilitzada"
+"es utilitzat" "és utilitzat"
+"Es utilitzat" "És utilitzat"
+"esva" "es va"
+"es va es va" "es va"
+"es va fer amb el control" "va prendre el control"
+"Es va fer amb el control" "Va prendre el control"
+"es va fer amb el poder" "va prendre el poder"
+"Es va fer amb el poder" "Va prendre el poder"
+"es van fer amb el control" "van prendre el control"
+"Es van fer amb el control" "Van prendre el control"
+"es van fer amb el poder" "van prendre el poder"
+"Es van fer amb el poder" "Van prendre el poder"
+evaluació avaluació
+evaluacions avaluacions
+exàmen examen
+examens exàmens
+excelència excel·lència
+excercit exercit
+exclós exclòs
+Exclós Exclòs
+exclussiu exclusiu
+exclussius exclusius
+exclussiva exclusiva
+exclussivament exclusivament
+exclussives exclusives
+exepcional excepcional
+Exepcional Excepcional
+exércit exèrcit
+exércits exèrcits
+éxit èxit
+Éxit Èxit
+éxits èxits
+experiemnt experiment
+expolià espolià
+expoliaren espoliaren
+exposció exposició
+Exposció Exposició
+exposcions exposicions
+Exposcions Exposicions
+extendre estendre
+"extendre's" "estendre's"
+extenen estenen
+extenent estenent
+Extenent Estenent
+extén estén
+extèn estén
+extraditades extradites
+extraditat extradit
+extraditats extradits
+extraodinària extraordinària
+extraodinàriament extraordinàriament
+extraodinàries extraordinàries
+extraodinari extraordinari
+extraodinaris extraordinaris
+extrordinària extraordinària
+extrordinàriament extraordinàriament
+extrordinàries extraordinàries
+extrordinari extraordinari
+extrordinaris extraordinaris
+extrovertides extravertides
+extrovertit extravertit
+extrovertits extravertits
+fàcilmemt fàcilment
+"fan referencia" "fan referència"
+faràn faran
+"fa referencia" "fa referència"
+"Fa referencia" "Fa referència"
+faría faria
+faríen farien
+"feia referencia" "feia referència"
+fenòmen fenomen
+Fenòmen Fenomen
+fenomens fenòmens
+Fenomens Fenòmens
+"fent referencia" "fent referència"
+"fent us" "fent ús"
+féren feren
+féren feren
+Ferràn Ferran
+Ferràn Ferran
+"fer referencia" "fer referència"
+"fer-se amb el control" "prendre el control"
+"fer-se amb el poder" "prendre el poder"
+"fer us" "fer ús"
+fés fes
+Fés Fes
+fèsol fesol
+fèsols fesols
+"fet de que" "fet que"
+#"filla i neta" "filla i néta"
+#"Filla i neta" "Filla i néta"
+#"fill i net" "fill i nét"
+#"Fill i net" "Fill i nét"
+#"fills i nets" "fills i néts"
+finalemnt finalment
+"fins a aleshores" "fins aleshores"
+"Fins a aleshores" "Fins aleshores"
+"fins a ara" "fins ara"
+"Fins a ara" "Fins ara"
+"fins a avui" "fins avui"
+"Fins a avui" "Fins avui"
+"fins acabar" "fins a acabar"
+"fins aconseguir" "fins a aconseguir"
+"fins a llavors" "fins llavors"
+"fins a llavors" "fins llavors"
+"Fins a llavors" "Fins llavors"
+"Fins a llavors" "Fins llavors"
+"finsals" "fins als"
+"fins a que" "fins que"
+"Fins a que" "Fins que"
+"fins arribar" "fins a arribar"
+"fins assolir" "fins a assolir"
+"fins els anys" "fins als anys"
+"Fins els anys" "Fins als anys"
+"fins el segle" "fins al segle"
+"Fins el segle" "Fins al segle"
+"fins hi tot" "fins i tot"
+"fins-hi tot" "fins i tot"
+"Fins hi tot" "Fins i tot"
+"Fins-hi tot" "Fins i tot"
+"fins l'actualitat" "fins a l'actualitat"
+"Fins l'actualitat" "Fins a l'actualitat"
+"fins l'any" "fins a l'any"
+"fins l'any" "fins a l'any"
+"Fins l'any" "Fins a l'any"
+"Fins l'any" "Fins a l'any"
+fonamentalemnt fonamentalment
+forània forana
+forànies foranes
+forani forà
+foràni forà
+foranis forans
+forànis forans
+forçes forces
+Forçes Forces
+"fóren" "foren"
+"foren trasllades" "foren traslladades"
+"foren trasllats" "foren traslladats"
+"forma més comú" "forma més comuna"
+"fòrmula" "fórmula"
+"Fòrmula" "Fórmula"
+"fòrmules" "fórmules"
+"Fòrmules" "Fórmules"
+fosat fossat
+fosats fossats
+"foses nasals" "fosses nasals"
+fós fos
+fóssin fossin
+fóu fou
+Fóu Fou
+"fou nombrada" "fou nomenada"
+"fou nombrat" "fou nomenat"
+"fou trasllada" "fou traslladada"
+"fou trasllat" "fou traslladat"
+fracasades fracassades
+fracasà fracassà
+fracasaren fracassaren
+fracasat fracassat
+fracasats fracassats
+francesses franceses
+francessos francesos
+"franco-prussià" francoprussià
+"franco-prussiana" francoprussiana
+"franco-prussianes" francoprussianes
+"franco-prussians" francoprussians
+"franc-prusià" francoprussià
+"franc-prusiana" francoprussiana
+"franc-prusianes" francoprussianes
+"franc-prusians" francoprussians
+"franc prussià" francoprussià
+"franc-prussià" francoprussià
+"franc prussiana" francoprussiana
+"franc-prussiana" francoprussiana
+"franc prussianes" francoprussianes
+"franc-prussianes" francoprussianes
+"franc prussians" francoprussians
+"franc-prussians" francoprussians
+frustació frustració
+frustada frustrada
+frustades frustrades
+frustà frustrà
+frustant frustrant
+frustaren frustraren
+frustar frustrar
+frustat frustrat
+frustats frustrats
+fusellatge fuselatge
+fusellatges fuselatges
+fusselatge fuselatge
+fussellatge fuselatge
+Gàl·llia Gàl·lia
+"gal·lo-romà" "gal·loromà"
+"gal·lo-romana" "gal·loromana"
+"gal·lo-romanes" "gal·loromanes"
+"gal·lo-romans" "gal·loromans"
+garantitzada garantida
+garantitzades garantides
+garantitza garanteix
+garantitzà garantí
+garantitzaren garantiren
+garantitzar garantir
+garantitzar garantir
+garantitzat garantit
+garantitzats garantits
+garantitzen garanteixen
+garantitzin garanteixin
+garantitzi garanteixi
+génere gènere
+Génere Gènere
+genuïtat genuïnitat
+Geomorfològicamnet Geomorfològicament
+germá germà
+gobernació governació
+"Gobern d'Espanya" "Govern d'Espanya" 
+goberns governs
+"gracies a" "gràcies a"
+"Gracies a" "Gràcies a"
+"gràcies això" "gràcies a això"
+"Gràcies això" "Gràcies a això"
+"gracies al" "gràcies al"
+"Gracies al" "Gràcies al"
+"gracies als" "gràcies als"
+"Gracies als" "Gràcies als"
+grecorromà grecoromà
+grecorromanes grecoromanes
+grecorromans grecoromans
+Guadassèquies Guadasséquies
+"haber-hi" "haver-hi"
+"haber-se" "haver-se"
+"habitat natural" "hàbitat natural"
+"ha confundat" "ha cofundat"
+"Ha confundat" "Ha cofundat"
+"ha esta" "ha estat"
+"Ha esta" "Ha estat"
+hagessin haguessin
+haguè hagué
+haguéren hagueren
+haguès hagués
+haguéssen haguessin
+haguéssin haguessin
+haugés hagués
+hauría hauria
+hauríen haurien
+Hausburg Habsburg
+helenització hel·lenització
+heroïca heroica
+heroïc heroic
+heroïcs heroics
+heroïques heroiques
+heterogeneitat heterogeneïtat
+"hi ha especies" "hi ha espècies"
+"Hi ha especies" "Hi ha espècies"
+hiha "hi ha"
+"hi han altres" "hi ha altres"
+"Hi han altres" "Hi ha altres"
+"històrico-artística" "historicoartística"
+"historico-artístic" "historicoartístic"
+"Historico-artístic" "Historicoartístic"
+"històrico-artístic" "historicoartístic"
+"històrico-artístics" "historicoartístics"
+"Històrico-Artístics" "Historicoartístics"
+"Hi va haver-hi" "Hi va haver"
+"hi va hi haver" "hi va haver"
+homentatge homenatge
+homogeneitat homogeneïtat
+huitcents "huit-cents"
+"ia continuació" "i a continuació"
+idílic idíl·lic
+idílics idíl·lics
+idíliques idíl·liques
+ill·lustració il·lustració
+il·llustrat il·lustrat
+il·llustres il·lustres
+imporant important
+imporants importants
+impòrtancia importància
+impresionant impressionant
+impresionants impressionants
+incautació confiscació
+incautacions confiscacions
+incautà confiscà
+incautades confiscades
+incautaren confiscaren
+incautat confiscat
+incautats confiscats
+incloemnt incloent
+inclós inclòs
+inclós inclòs
+Inclós Inclòs
+Inclós Inclòs
+inclossa inclosa
+inclosses incloses
+inclossos incloses
+incovenient inconvenient
+incrememnt increment
+indentitat identitat
+indentitats identitats
+individuu individu
+individuus individus
+indivual individual
+indivuals individuals
+"indústria pesada" "indústria pesant"
+"Indústria pesada" "Indústria pesant"
+"indústries pesades" "indústries pesants"
+"Indústries pesades" "Indústries pesants"
+infòs infós
+inicialemnt inicialment
+inmediatament immediatament
+Inmediatament Immediatament
+inmediat immediat
+inmediats immediats
+inmens immens
+inmers immers
+inmobiliària immobiliària
+inmobiliàries immobiliàries
+inmobiliari immobiliari
+inmobiliaris immobiliaris
+Inrevès Inrevés
+insertades inserides
+insertat inserit
+insertats inserits
+instalació instal·lació
+Instalació Instal·lació
+instalacions instal·lacions
+Instalacions Instal·lacions
+"instalades" "instal·lades"
+"instalà" "instal·là"
+"instalaren" "instal·laren"
+"instalat" "instal·lat"
+"instalats" "instal·lats"
+instalessin "instal·lessin"
+instamnt instant
+"instant en que" "instant en què"
+"instants en que" "instants en què"
+interesant interessant
+interesants interessants
+"inter-ètnics" interètnics
+intermig intermedi
+Intermig Intermedi
+intermitges intermèdies
+Intermitges Intermèdies
+intermitja intermèdia
+Intermitja Intermèdia
+intermitjos intermedis
+Intermitjos Intermedis
+ïntimamnet íntimament
+intuició intuïció
+intuicions intuïcions
+invair envair
+"iq ue" "i que"
+"i rodalies" "i rodalia"
+Japò Japó
+juntamemt juntament
+juntamnt juntament
+juventuts joventuts
+Juventuts Joventuts
+" la actualitat" " l'actualitat"
+"La actualitat" "L'actualitat"
+" la asimetria" " l'asimetria"
+"l'accès" "l'accés"
+" la constat" " la constant"
+"l'actualiat" "l'actualitat"
+"l'actualitad" "l'actualitat"
+"l'actulitat" "l'actualitat"
+"l'acualitat" "l'actualitat"
+" la enfermetat" " la malaltia"
+"lae seva" "la seva"
+" la espècie" " l'espècie"
+"La espècie" "L'espècie"
+" la esquerra" " l'esquerra"
+" la estàtua" " l'estàtua"
+"La estàtua" "L'estàtua"
+" la expedició" " l'expedició"
+" la Expedició" " l'Expedició"
+" la hipòtesis" " la hipòtesi"
+"La hipòtesis" "La hipòtesi"
+" la homosexualitat" " l'homosexualitat"
+"La homosexualitat" "L'homosexualitat"
+" la hostilitat" " l'hostilitat"
+"La hostilitat" "L'hostilitat"
+" la illa" " l'illa"
+" la Illa" " l'Illa"
+"l'aixecamnet" "l'aixecament"
+"l'Ajuntamnet" "l'Ajuntament"
+"l'alçada de les circumstàncies" "l'altura de les circumstàncies"
+"l'àmpit" "l'ampit"
+"l'angel" "l'àngel"
+" la organització" " l'organització"
+" la Organització" " l'Organització"
+"La organització" "L'organització"
+"La Organització" "L'Organització"
+"lapart" "la part"
+" la petita pantalla" " la pantalla petita"
+"l'apostrof" "l'apòstrof"
+"L'apostrof" "L'apòstrof"
+"l'arxipelag" "l'arxipèlag"
+" la seua la seua" " la seua"
+" la seues" " les seues"
+"La seues" "Les seues"
+"la seva familia" "la seva família"
+"La seva familia" "La seva família"
+" la seva la seva" " la seva"
+" la seves" " les seves"
+"La seves" "Les seves"
+lasituació "la situació"
+"l'asociació" "l'associació"
+"l'Asociació" "l'Associació"
+"las seves" "les seves"
+"Las seves" "Les seves"
+"l'atencio" "l'atenció"
+latitut latitud
+Latitut Latitud
+latituts latituds
+Latituts Latituds
+"lea seva" "la seva"
+"l'edfici" "l'edifici"
+"L'edfici" "L'edifici"
+"l'edifci" "l'edifici"
+"L'edifci" "L'edifici"
+legendària llegendària
+legendàries llegendàries
+legendari llegendari
+legendaris llegendaris
+"l'eïna" "l'eina"
+"l'ela" "la ela"
+"L'ela" "La ela"
+"l'èlit" "l'elit"
+"l'embaixada" "l'ambaixada"
+"L'embaixada" "L'ambaixada"
+"l'embasamemt" "l'embasament"
+"l'enderrocaemnt" "l'enderrocament"
+"l'enfermetat" "la malaltia"
+"l'enfoc" "l'enfocament"
+"l’enfoc" "l’enfocament"
+"L'enfoc" "L'enfocament"
+"L’enfoc" "L’enfocament"
+"l'enregistramnt" "l'enregistrament"
+"l'entèn" "l'entén"
+"l'època en la que" "l'època en què"
+"L'època en la que" "L'època en què"
+"l'època en la què" "l'època en què"
+"l'època en que" "l'època en què"
+"l'època en que" "l'època en què"
+"l'època, en que" "l'època, en què"
+"L'època en que" "L'època en què"
+"l'equinoci" "l'equinocci"
+"l'escisió" "l'escissió"
+"L'escisió" "L'escissió"
+"les cuals" "les quals"
+"l'esdevinemnt" "l'esdeveniment"
+"les estrategies" "les estratègies"
+"le seues" "les seues"
+"Le seues" "Les seues"
+"le seves" "les seves"
+"Le seves" "Les seves"
+"les families" "les famílies"
+"l'esglesia" "l'església"
+"l'Esglesia" "l'Església"
+"L'esglesia" "L'església"
+"L'Esglesia" "L'Església"
+"les noticies" "les notícies"
+"Les noticies" "Les notícies"
+"l'especimen" "l'espècimen"
+"L'especimen" "L'espècimen"
+"l'especímen" "l'espècimen"
+"l'espressió" "l'expressió"
+"Les questions" "Les qüestions"
+"l'estàndar" "l'estàndard"
+"L'estàndar" "L'estàndard"
+"l'estatu quo" "l'statu quo"
+"l'estatus quo" "l'statu quo"
+"l'estrategia" "l'estratègia"
+"L'estrategia" "L'estratègia"
+"l'etapa en la que" "l'etapa en què"
+"l'evaluació" "l'avaluació"
+"L'evaluació" "L'avaluació"
+"l'exàmen" "l'examen"
+"L'exàmen" "L'examen"
+"l'exércit" "l'exèrcit"
+"l'existencia" "l'existència"
+"l'exit" "l'èxit"
+"L'exit" "L'èxit"
+"l'éxit" "l'èxit"
+"L'éxit" "L'èxit"
+"l'helenització" "l'hel·lenització"
+liders líders
+liliputienc lil·liputienc
+liliputiencs lil·liputiencs
+"l'impartiment" "la impartició"
+"l'importància" "la importància"
+"L'importància" "La importància"
+"l'inauguració" "la inauguració"
+"L'inauguració" "La inauguració"
+"l'incremnt" "l'increment"
+linguística lingüística
+linguístic lingüístic
+linguístics lingüístics
+linguístiques lingüístiques
+linial lineal
+Linial Lineal
+linialment linealment
+linials lineals
+Linials Lineals
+"l'intenció" "la intenció"
+"l'intermig" "l'intermedi"
+"li pasa" "li passa"
+líquen liquen
+Líquen Liquen
+liquens líquens
+Liquens Líquens
+liquidesa liquiditat
+"llarg-metratge" llargmetratge
+"llarg-metratges" llargmetratges
+"llarg plaç" "llarg termini"
+llavots llavors
+Llavots Llavors
+lleugeramnt lleugerament
+"llindava amb" "confrontava amb"
+"Llistes de ventes" "Llistes de vendes"
+"Llistes ventes" "Llistes de vendes"
+llloc lloc
+Llloc Lloc 
+lña la
+localamnt localment
+"Localitats costeres" "Localitats costaneres"
+"localitats limítrofs" "localitats limítrofes"
+"Localitats limítrofs" "Localitats limítrofes"
+longitudinalemnt longitudinalment
+longitut longitud
+Longitut Longitud
+longituts longituds
+Longituts Longituds
+"l'opocisió" "l'oposició"
+"l'orígen" "l'origen"
+"L'orígen" "L'origen"
+"l'Scala" "la Scala"
+"l'status quo" "l'statu quo"
+"l'ùnic" "l'únic"
+"L'ùnic" "L'únic"
+"l'us" "l'ús"
+"L'us" "L'ús"
+"l'utilització" "la utilització"
+"L'utilització" "La utilització"
+malgart malgrat
+Malgart Malgrat
+Managememt Management
+"manera més comú" "manera més comuna"
+mantigué mantingué
+mantigueren mantingueren
+mantigut mantingut
+mantinguent mantenint
+marquessa marquesa
+Marquessa Marquesa
+marquessat marquesat
+Marquessat Marquesat
+marquessats marquesats
+Marquessats Marquesats
+marquesses marqueses
+Marquesses Marqueses
+marquessos marquesos
+Marquessos Marquesos
+Masachusets Massachusetts
+Massachusets Massachusetts
+Massachussets Massachusetts
+Massachussetts Massachusetts
+"mateixa época" "mateixa època"
+matiex mateix
+matingut mantingut
+matissos matisos
+mentretant mentrestant
+Mentretant Mentrestant
+mereixer merèixer
+"més abaix" "més avall"
+"més antigua" "més antiga"
+"mes enlla" "més enllà"
+"més enlla" "més enllà"
+"mes enllà" "més enllà"
+"Mes enllà" "Més enllà"
+"mesos desprès" "mesos després"
+"mes tard" "més tard"
+"Mes tard" "Més tard"
+metàliques metàl·liques
+metall·lúrgica metal·lúrgica
+"metall pesat" "metall pesant"
+"Metall pesat" "Metall pesant"
+"metalls pesats" "metalls pesants"
+"Metalls pesats" "Metalls pesants"
+meyns menys
+"mig plaç" "mitjà termini"
+mileni mil·lenni
+milenis mil·lennis
+milenni mil·lenni
+Milenni Mil·lenni
+Milenni Mil·lennis
+milennis mil·lennis
+miligrams mil·ligrams
+milímetre mil·límetre
+milimetres mil·límetres
+milímetres mil·límetres
+milisegon mil·lisegon
+milisegons mil·lisegons
+milivats mil·liwatts
+milivolts mil·livolts
+mil·lenaria mil·lenària
+mil·lenaries mil·lenàries
+mil·leni mil·lenni
+Mil·leni Mil·lenni
+mil·lenis mil·lennis
+mil·lennària mil·lenària
+mil·lennàries mil·lenàries
+mil·lennari mil·lenari
+Mil·lennari Mil·lenari
+mil·lennaris mil·lenaris
+mil·limetre mil·límetre
+mil·limetres mil·límetres
+mil·lió milió
+mil·lions milions
+mil·lleni mil·lenni
+milllor millor
+Milllor Millor
+millons milions
+Millons Milions
+mitjanç mitjans
+"mitjà plaç" "mitjà termini"
+moemnt moment
+"molt escasa" "molt escassa"
+"moltes especies" "moltes espècies"
+"Moltes especies" "Moltes espècies"
+"moltes poques" "molt poques"
+"molts pocs" "molt pocs"
+"Molts pocs" "Molt pocs"
+momemnt moment
+momentàneament momentàniament
+"moment en el que" "moment en què"
+"moment en que" "moment en què"
+"moments en que" "moments en què"
+momnet moment
+momunemnt monument
+monitoritzar monitorar
+monoteïsme monoteisme
+Monoteïsme Monoteisme
+monoteïsta monoteista
+Monoteïsta Monoteista
+monoteïstes monoteistes
+Monoteïstes Monoteistes
+monumnet monument
+monumnt monument
+"motiu pel que" "motiu pel qual"
+motxil·la motxilla
+motxil·les motxilles
+moviemnt moviment
+muncipal municipal
+Muncipal Municipal
+muncipals municipals
+"municipi limítrofe" "municipi limítrof"
+"municipis limítrofes" "municipis limítrofs"
+"Municipis limítrofes" "Municipis limítrofs"
+municpal municipal
+"musica de cambra" "música de cambra"
+"Musica de cambra" "Música de cambra"
+"música de càmera" "música de cambra"
+"Música de càmera" "Música de cambra"
+músicalment musicalment
+Músicalment Musicalment
+músical musical
+Músical Musical
+músicals musicals
+Músicals Musicals
+mùsica música
+mùsic músic
+mùsics músics
+mùsiques músiques
+mutuament mútuament
+naixememnt naixement
+naixememt naixement
+naixer nàixer
+naixqué nasqué
+naració narració
+narracció narració
+Narracció Narració
+nasquè nasqué
+nasquè nasqué
+Nasquè Nasqué
+Nasquè Nasqué
+necesitat necessitat
+Necesitat Necessitat
+necesitats necessitats
+Necesitats Necessitats
+neixement naixement
+Neixement Naixement
+neixements naixements
+neixé naixé
+neixeren naixeren
+neixer néixer
+nèixer néixer
+neixia naixia
+Neixia Naixia
+neixien naixien
+Neixien Naixien
+nesqué nasqué
+níexer néixer
+"Nom amb el que" "Nom amb el qual"
+"nom complert" "nom complet"
+"Nom complert" "Nom complet"
+nomès només
+Nomès Només
+Nordamèrica Nord-amèrica
+Nord-Amèrica Nord-amèrica
+nordamericà nord-americà
+Nordamericà Nord-americà
+nordamericans nord-americans
+Nordamericans Nord-americans
+nordamericanes nord-americanes
+nordamericana nord-americana
+Nordamericanes Nord-americanes
+Nordamericana Nord-americana
+nordest nord-est
+nordoest nord-oest
+normalemnt normalment
+noucents "nou-cents"
+"novel•la" "novel·la"
+"novel∙la" "novel·la"
+numeroses nombroses
+numerós nombrós
+ñla la
+objetivament objectivament
+obtinguè obtingué
+Obtinguè Obtingué
+ocacions ocasions
+ocació ocasió
+ocasionalemnt ocasionalment
+ocorrer ocórrer
+oïent oient
+oïents oients
+opocisió oposició
+opossicions oposicions
+opossició oposició
+organizació organització
+Organizació Organització
+orígen origen
+Orígen Origen
+origens orígens
+Origens Orígens
+otorgà atorgà
+otorgaren atorgaren
+otorguen atorguen
+paisatje paisatge
+Paisatje Paisatge
+paisatjes paisatges
+Paisatjes Paisatges
+paisatjística paisatgística
+paisatjístic paisatgístic
+paisatjístics paisatgístics
+paisatjístiques paisatgístiques
+"països limítrofes" "països limítrofs"
+paisos països
+paísos països
+Paísos Països
+païssos països
+Païssos Països
+"país Valencia" "País Valencià"
+"País Valencia" "País Valencià"
+"País València" "País Valencià"
+"pals a les rodes" "bastons a les rodes"
+pannell panell
+paralelament paral·lelament
+Paralelament Paral·lelament
+paral·lament paral·lelament
+Paral·lament Paral·lelament
+"paral·lelas" "paral·leles"
+paral·llament paral·lelament
+paral·lles paral·leles
+"parcial o totalment" "parcialment o totalment"
+pareixer parèixer
+partícep partícip
+partíceps partícips
+participacio participació
+pasà passà
+pasaren passaren
+pasés passés
+pasessin passessin
+passàren passaren
+peixer péixer
+pèixer péixer
+"pel darrera" "pel darrere"
+"Pel darrera" "Pel darrere"
+"pel est" "per l'est"
+"pel·lícula d'horror" "pel·lícula de terror"
+"pel.licula" "pel·lícula"
+"pel•licula" "pel·lícula"
+pel·licula pel·lícula
+Pel·licula Pel·lícula
+"pel·lícules d'horror" "pel·lícules de terror"
+"pel.licules" "pel·lícules"
+pel·licules pel·lícules
+Pel·licules Pel·lícules
+pel·llícula pel·lícula
+"pel oest" "per l'oest"
+"pels complexes" "pels complexos"
+"pels cuals" "pels quals"
+penòs penós
+pensamemt pensament
+Penyíscola Peníscola
+"per altre banda" "per altra banda"
+"Per altre banda" "Per altra banda"
+"per altre part" "per altra part"
+"Per altre part" "Per altra part"
+"per be que" "per bé que"
+"Per be que" "Per bé que"
+"per conmemorar" "per commemorar"
+"per darrera del" "per darrere del"
+"Per darrera del" "Per darrere del"
+"per darrera dels" "per darrere dels"
+"Per darrera dels" "Per darrere dels"
+"per darrera de" "per darrere de"
+"Per darrera de" "Per darrere de"
+peregrinatge pelegrinatge
+Peregrinatge Pelegrinatge
+peregrinatges pelegrinatges
+Peregrinatges Pelegrinatges
+"període en que" "període en què"
+pèriode període 
+"període rotacional" "període de rotació"
+"Període rotacional" "Període de rotació"
+"per kilometre" "per quilòmetre"
+"per les afores" "pels afores"
+permissos permisos
+"per mitja del" "per mitjà del"
+"per mitja dels" "per mitjà dels"
+"per mitja de" "per mitjà de"
+"per odre" "per ordre"
+"Per odre" "Per ordre"
+peró però
+Peró Però
+pèrò però
+Pèrò Però
+perpò però
+pertanyença pertinença
+pertanyer pertànyer
+pertanyer pertànyer
+pertengué pertangué
+pertenyent pertanyent
+pertenyents pertanyents
+pertènyer pertànyer
+pertenyia pertanyia
+pertenyien pertanyien
+"per una altre part" "per una altra part"
+"Per una altre part" "Per una altra part"
+"per un altre part" "per una altra part"
+"Per un altre part" "Per una altra part"
+"pintor de càmera" "pintor de cambra"
+"Pintor de càmera" "Pintor de cambra"
+plaços terminis
+plastelina plastilina
+plujes pluges
+Plujes Pluges
+pobablement probablement
+"poblacions limítrofs" "poblacions limítrofes"
+pobrement pobrament
+"poc desprès" "poc després"
+"Poc desprès" "Poc després"
+podiem podíem
+Podiem Podíem
+podriem podríem
+Podriem Podríem
+poguéssin poguessin
+"pol·lens" "pòl·lens"
+"Pol·lens" "Pòl·lens"
+pol·lítica política
+pol·lític polític
+"poques vegade" "poques vegades"
+portavions portaavions
+portès portés
+portugesa portuguesa
+portugeses portugueses
+portugesos portuguesos
+portugés portugués
+portugès portuguès
+posaràn posaran
+posesions possessions
+posessions possessions
+posessió possessió
+possar posar
+posseixen posseeixen
+Posseixen Posseeixen
+posseix posseeix
+Posseix Posseeix
+possesions possessions
+possibitat possibilitat
+Possibitat Possibilitat
+possicions posicions
+possició posició
+posssible possible
+Postdam Potsdam
+posterioment posteriorment
+Posterioment Posteriorment
+Posteriormnet Posteriorment
+pràcticamnet pràcticament
+pràcticamnet pràcticament
+precissament precisament
+precissa precisa
+precissar precisar
+precissen precisen
+precisses precises
+precissos precisos
+"predil·lecció" predilecció
+"predil·lecte" predilecte
+preeliminar preliminar
+preeliminars preliminars
+"pre-existent" "preexistent"
+"pre-existents" "preexistents"
+prememnt prement
+"prendre foc" "calar foc"
+prènen prenen
+prén pren
+prèn pren
+Prèn Pren
+prequel·la preqüela
+preqüel·la preqüela
+prequel·les preqüeles
+preqüel·les preqüeles
+prespectiva perspectiva
+Prespectiva Perspectiva
+prespectives perspectives
+Prespectives Perspectives
+"pressa de possessió" "presa de possessió"
+pressenta presenta
+pressentat presentat
+pressoner presoner
+Pressoner Presoner
+pressoners presoners
+pressons presons
+pressó presó
+pressumptament presumptament
+Pressumptament Presumptament
+pressumpta presumpta
+Pressumpta Presumpta
+pressumpte presumpte
+Pressumpte Presumpte
+pressumptes presumptes
+Pressumptes Presumptes
+pressuntament presumptament
+prestamistes prestadors
+presuntament presumptament
+"pret a porter" "prêt-à-porter"
+"pret-a-porter" "prêt-à-porter"
+"Pret a porter" "Prêt-à-porter"
+"Pret-a-porter" "Prêt-à-porter"
+"prét-a-porter" "prêt-à-porter"
+"prét-a-porter" "prêt-à-porter"
+"prèt-a-porter" "prêt-à-porter"
+"pret-à-porter" "prêt-à-porter"
+"prét à porter" "prêt-à-porter"
+"Prét-à-porter" "Prêt-à-porter"
+"prèt-à-porter" "prêt-à-porter"
+"prét-â-porter" "prêt-à-porter"
+"prèt-â-porter" "prêt-à-porter"
+pretencions pretensions
+pretenciós pretensiós
+pretèn pretén
+Pretèn Pretén
+previament prèviament
+pricipalemnt principalment
+pricipalment principalment
+pricipal principal
+pricipals principals
+pricipi principi
+pricipis principis
+"primera vagada" "primera vegada"
+"primera vegade" "primera vegada"
+"primer vegada" "primera vegada"
+principalemnt principalment
+probablament probablement
+Probablament Probablement
+probablemen probablement
+problablement probablement
+Problablement Probablement
+procediemnt procediment
+Procediemnt Procediment
+produida produïda
+produides produïdes
+"produit pels" "produït pels"
+"produit per" "produït per"
+Progresiavemnt Progressivament
+progresiu progressiu
+progresius progressius
+progresives progressives
+promiscuitat promiscuïtat
+propiament pròpiament
+"propietats costeres" "propietats costaneres"
+protocolària protocol·lària
+protocolàries protocol·làries
+protocolari protocol·lari
+protocolaris protocol·laris
+provablement probablement
+Provablement Probablement
+provatòria probatòria
+provatòries probatòries
+provatori probatori
+provatoris probatoris
+proveida proveïda
+proveides proveïdes
+proveit proveït
+proveits proveïts
+#provista proveïda
+provistes proveïdes
+provistos proveïts
+provist proveït
+provists proveïts
+prusianes prussianes
+prusians prussians
+prusià prussià
+Ptolomeu Ptolemeu
+pugué pogué
+puguera poguera
+pugueren pogueren
+pugués pogués
+puguessin poguessin
+pujen pugen
+pujés pugés
+pujessin pugessin
+pujin pugin
+pulseres polseres
+"punt en que" "punt en què"
+"punt i final" "punt final"
+qaurta quarta
+qaurt quart
+qeu que
+qie que
+quadrieni quadrienni
+quadrienis quadriennis
+quadrúpeds quadrúpedes
+quarentena quarantena
+quaselvol qualsevol
+"quasibe" "gairebé"
+"Quasibe" "Gairebé"
+"quasi bé" "gairebé"
+"quasibé" "gairebé"
+"Quasi bé" "Gairebé"
+"Quasibé" "Gairebé"
+"quasibè" "gairebé"
+"Quasibè" "Gairebé"
+quatitat quantitat
+quatitats quantitats
+"quatre cent" "quatre-cents"
+"quatre-cent" "quatre-cents"
+quatrecents "quatre-cents"
+quatrieni quadrienni
+quatrienis quadriennis
+quatrienni quadrienni
+quatriennis quadriennis
+"que desprès" "que després"
+"que fà" "que fa"
+"que llinda amb" "que confronta amb"
+"que possés" "que posés"
+questiona qüestiona
+questionà qüestionà
+Questionà Qüestionà
+questionaren qüestionaren
+questionar qüestionar
+questió qüestió
+quinqueni quinquenni
+quinquenis quinquennis
+quue que
+quye que
+"raó per la que" "raó per la qual"
+"rau en que" "rau en el fet que"
+"rau en què" "rau en el fet que"
+"radica en què" "rau en el fet que"
+realemnt realment
+realizades realitzades
+realizat realitzat
+realizats realitzats
+reanudacions represes
+reanudació represa
+reanudaren reprengueren
+reanudà reprengué
+reapareixer reaparèixer
+reasentades reassentades
+reasentament reassentament
+reasentaments reassentaments
+reasentat reassentat
+reasentats reassentats
+recàmera recambra
+recàmeres recambres
+recentement recentment
+Recentement Recentment
+recentemnt recentment
+recientement recentment
+Recientement Recentment
+recientment recentment
+Recientment Recentment
+recolectat recol·lectat
+recolectats recol·lectats
+"recolectors" "recol·lectors"
+recolleixen recullen
+recolzamnt recolzament
+recomenable recomanable
+recomenables recomanables
+reconeixament reconeixement
+Reconeixament Reconeixement
+reconeixemnt reconeixement
+reconeixer reconèixer
+reconeiximent reconeixement
+Reconeiximent Reconeixement
+recorrents recurrents
+recòrrer recórrer
+recreixer recréixer
+recrèixer recréixer
+redisenyada redissenyada
+redisenyades redissenyades
+redisenyat redissenyat
+redisenyats redissenyats
+"re-edicions" "reedicions"
+"re-edició" "reedició"
+"re-editada" "reeditada"
+"re-editades" "reeditades"
+"re-editar" "reeditar"
+"re-editat" "reeditat"
+"re-editats" "reeditats"
+reempendre reprendre
+reemplaços reemplaçaments
+reemplaç reemplaçament
+Reemplaç Reemplaçament
+reemprendre reprendre
+reemprenen reprenen
+reemprèn reprèn
+"re-escrita" "reescrita"
+"re-escrites" "reescrites"
+"re-escrit" "reescrit"
+"re-escrits" "reescrits"
+"re-escriure" "reescriure"
+reestablerta restablerta
+reestablertes restablertes
+reestablert restablert
+reestablerts restablerts
+reflexada reflectida
+reflexades reflectides
+reflexà reflectí
+reflexaren reflectiren
+reflexar reflectir
+reflexat reflectit
+reflexats reflectits
+reflexava reflectia
+reflexaven reflectien
+refòs refós
+refrència referència
+regiduria regidoria
+Regiduria Regidoria
+"regions costeres" "regions costaneres"
+"regions limítrofs" "regions limítrofes"
+reinvicacions reinvidicacions
+reinvicació reinvidicació
+relativamemt relativament
+relativemnt relativament
+"rel·lacions" "relacions"
+"rel·lació" "relació"
+remplaços reemplaçaments
+remplaç reemplaçament
+reneixer renéixer
+renèixer renéixer
+repartimnet repartiment
+repelent repel·lent
+Repelent Repel·lent
+repelents repel·lents
+"resol·lucions" "resolucions"
+"resol·lució" "resolució"
+resó ressò
+resò ressò
+respón respon
+Respón Respon
+respòn respon
+Respòn Respon
+respota resposta
+respotes respostes
+Ressidència Residència
+ressolucions resolucions
+ressolució resolució
+ressolució resolució
+Ressolució Resolució
+ressó ressò
+"resta del mon" "resta del món"
+"Resta del mon" "Resta del món"
+retè reté
+Retè Reté
+retregueren retragueren
+retregué retragué
+retreient retraient
+reunio reunió
+Reunio Reunió
+revel·lacions revelacions
+Revel·lacions Revelacions
+revel·lació revelació
+Revel·lació Revelació
+revel·lions rebel·lions
+Revel·lions Rebel·lions
+revel·lió rebel·lió
+Revel·lió Rebel·lió
+revès revés
+"Riba-roja del Túria" "Riba-roja de Túria"
+ribetades rivetades
+ribetat rivetat
+ribetats rivetats
+rigurositat rigorositat
+"riu a baix" "riu avall"
+"riu abaix" "riu avall"
+romangut romàs
+roturacions rompudes
+roturació rompuda
+rwandesa ruandesa
+rwandeses ruandeses
+rwandesos ruandesos
+rwandès ruandès
+safarejos safaretjos
+Safarejos Safaretjos
+"s'anula" "s'anul·la"
+"s'anulen" "s'anul·len"
+"satèl . lit" "satèl·lit"
+"satèl lit" "satèl·lit"
+"satèl.lit" "satèl·lit"
+"satèl•lit" "satèl·lit"
+segeuixen segueixen
+segeuix segueix
+"segons desprès" "segons després"
+"segon vegada" "segona vegada"
+seguents següents
+"seguretat vial" "seguretat viària"
+"Seguretat Vial" "Seguretat Viària"
+sel·lecció selecció
+"s'els" "se'ls"
+"S'els" "Se'ls"
+semanalment setmanalment
+semanals setmanals
+"sembla esser que" "sembla que"
+"Sembla esser que" "Sembla que"
+"sembla ésser que" "sembla que"
+"Sembla ésser que" "Sembla que"
+semblamnt semblant
+"sembla ser que" "sembla que"
+"Sembla ser que" "Sembla que"
+"semblava esser que" "semblava que"
+"Semblava esser que" "Semblava que"
+"semblava ésser que" "semblava que"
+"Semblava ésser que" "Semblava que"
+"semblava ser que" "semblava que"
+"Semblava ser que" "Semblava que"
+"semi-déu" "semidéu"
+"semi-déus" "semidéus"
+"se n'adona que" "s'adona que"
+"se n'adonà que" "s'adonà que"
+"se n'adonaren que" "s'adonaren que"
+"se n'adonen que" "s'adonen que"
+"s'encèn" "s'encén"
+"s'endu" "s'enduu"
+"S'endu" "S'enduu"
+"se'ns dubte" "sens dubte"
+"Se'ns dubte" "Sens dubte"
+"s'ens" "se'ns"
+"s'enten" "s'entén"
+"s'entèn" "s'entén"
+"S'entèn" "S'entén"
+"s'en troba" "se'n troba"
+"s'en troben" "se'n troben"
+"se'n va adonar que" "es va adonar que"
+"se'n van adonar que" "es van adonar que"
+"s'en van" "se'n van"
+"S'en van" "Se'n van"
+sequela seqüela
+sequeles seqüeles
+sequel·la seqüela
+Sequel·la Seqüela
+seqüel·la seqüela
+Seqüel·la Seqüela
+seqüèl·la seqüela
+sequel·les seqüeles
+seqüel·les seqüeles
+Seqüel·les Seqüeles
+seqüèl·les seqüeles
+sèquia séquia
+Sèquia Séquia
+sèquies séquies
+Sèquies Séquies
+"serie de televisió" "sèrie de televisió"
+"Serie de televisió" "Sèrie de televisió"
+"s'escolleixen" "s'escullen"
+"s'escolleix" "s'escull"
+"s'esdevinguè" "s'esdevingué"
+"S'esdevinguè" "S'esdevingué"
+sessiò sessió
+"s'estàn" "s'estan"
+"s'esta" "s'està"
+"S'esta" "S'està"
+"s'estenguè" "s'estengué"
+"s'esten" "s'estén"
+"S'esten" "S'estén"
+"s'estèn" "s'estén"
+"S'estèn" "S'estén"
+"set cent" "set-cents"
+"set-cent" "set-cents"
+setcents "set-cents"
+"seua época" "seua època"
+"seu us" "seu ús"
+"seva época" "seva època"
+"seva escasa" "seva escassa"
+sevamort "seva mort"
+"seva tesis" "seva tesi"
+sevavida "seva vida"
+"seves families" "seves famílies"
+sexeni sexenni
+sexeni sexenni
+Sexeni Sexenni
+sexesnis sexennis
+"s'extenen" "s'estenen"
+"s'extengueren" "s'estengueren"
+"s'extengué" "s'estengué"
+"s'extenia" "s'estenia"
+"s'extenien" "s'estenien"
+"s'exten" "s'estén"
+"S'exten" "S'estén"
+"s'extén" "s'estén"
+"S'extén" "S'estén"
+"s'extèn" "s'estén"
+"s'habia" "s'havia"
+"s'habien" "s'havien"
+"s'haguéssin" "s'haguessin"
+"si be" "si bé"
+"Si be" "Si bé"
+simplememnt simplement
+"s'incloia" "s'incloïa"
+"s'incloien" "s'incloïen"
+"s'inicà" "s'inicià"
+"sino que també" "sinó que també"
+sinò sinó
+"s'instalaren" "s'instal·laren"
+"s'instalà" "s'instal·là"
+"si o no" "sí o no"
+"sis cent" "sis-cents"
+"sis-cent" "sis-cents"
+siscents "sis-cents"
+"sistema motriu" "sistema motor"
+"Sistema motriu" "Sistema motor"
+sitauada situada
+sitauades situades
+sitaucions situacions
+sitaució situació
+"situació en la que" "situació en què"
+"situació en que" "situació en què"
+"situacions en les que" "situacions en què"
+"situacions en que" "situacions en què"
+sobrecreixer sobrecréixer
+sobrecrèixer sobrecréixer
+sobreeixen sobreïxen
+sobreeix sobreïx
+sobreentèn sobreentén
+Sobreentèn Sobreentén
+sobreneixer sobrenéixer
+sobrenèixer sobrenéixer
+sofocaren sufocaren
+sofocà sufocà
+"soldats de reemplaç" "soldats de lleva"
+"sometent-la" "sotmetent-la"
+"sometent-les" "sotmetent-les"
+"sometent-lo" "sotmetent-lo"
+"sometent-los" "sotmetent-los"
+"sortir a la venta" "sortir a la venda"
+"sospita de que" "sospita que"
+"sospites de que" "sospites que"
+sostè sosté
+Sostè Sosté
+sotmessos sotmesos
+"sots campiona" "subcampiona"
+"sots-campiona" "subcampiona"
+"sotscampiona" "subcampiona"
+"Sots campiona" "Subcampiona"
+"Sots-campiona" "Subcampiona"
+"Sotscampiona" "Subcampiona"
+"sots-campionats" "subcampionats"
+"sotscampionats" "subcampionats"
+"Sots-campionats" "Subcampionats"
+"Sotscampionats" "Subcampionats"
+"sots-campionat" "subcampionat"
+"sotscampionat" "subcampionat"
+"Sots-campionat" "Subcampionat"
+"Sotscampionat" "Subcampionat"
+"sots campiones" "subcampiones"
+"sots-campiones" "subcampiones"
+"sotscampiones" "subcampiones"
+"Sots campiones" "Subcampiones"
+"Sots-campiones" "Subcampiones"
+"Sotscampiones" "Subcampiones"
+"sots campions" "subcampions"
+"sots-campions" "subcampions"
+"sotscampions" "subcampions"
+"Sots campions" "Subcampions"
+"Sots-campions" "Subcampions"
+"Sotscampions" "Subcampions"
+"sots campió" "subcampió"
+"sots-campió" "subcampió"
+"sotscampió" "subcampió"
+"sots-Campió" "subcampió"
+"Sots campió" "Subcampió"
+"Sots-campió" "Subcampió"
+"Sotscampió" "Subcampió"
+"Sots-Campió" "Subcampió"
+"sots-tinent" "sotstinent"
+"Sots-tinent" "Sotstinent"
+"Sots-Tinent" "Sotstinent"
+sseua seua
+sseva seva
+#"status quo" "statu quo"
+subastats subhastats
+subastat subhastat
+subastes subhastes
+"subministres" "subministraments"
+submissa submisa
+submisses submises
+subsituir substituir
+succeia succeïa
+Succeia Succeïa
+succeien succeïen
+Succeien Succeïen
+succesivament successivament
+succesòria successòria
+succesòries successòries
+succesoris successoris
+succesori successori
+suceeixen succeeixen
+sucessions successions
+Sucessions Successions
+sucessió successió
+Sucessió Successió
+sucessora successora
+sucessores successores
+sucessors successors
+sucessor successor
+Sudàfrica Sud-àfrica
+Sud-Àfrica Sud-àfrica
+sudamericans sud-americans
+Sudamericans Sud-americans
+Sudamèrica Sud-amèrica
+Sud-Amèrica Sud-amèrica
+sudamericà sud-americà
+Sudamericà Sud-americà
+sudest sud-est
+sudoest sud-oest
+sugerència suggerència
+sugerències suggerències
+suicidaren suïcidaren
+"suicidar-se" "suïcidar-se"
+suicidà suïcidà
+suicidis suïcidis
+suicidi suïcidi
+#Suicidi Suïcidi
+suissos suïssos
+suïs suís
+Suïs Suís
+sumisió submissió
+sumissió submissió
+Sumissió Submissió
+superfíce superfície
+Superfíce Superfície
+"super poders" "superpoders"
+"super-poders" "superpoders"
+suposadamnt suposadament
+"sur-est" "sud-est"
+surgeixen sorgeixen
+surgeix sorgeix
+surgides sorgides
+surgiren sorgiren
+surgí sorgí
+surgit sorgit
+surgits sorgits
+Surgeixen Sorgeixen
+Surgeix Sorgeix
+Surgides Sorgides
+Surgiren Sorgiren
+Surgí Sorgí
+Surgit Sorgit
+Surgits Sorgits
+"sur-oest" "sud-oest"
+sustrats substrats
+sustrat substrat
+taambé també
+Taambé També
+"tal i com" "tal com"
+"Tal i com" "Tal com"
+tambés també
+Tambés També
+tambè també
+Tambè També
+tambié també
+Tambié També
+tamé també
+Tamé També
+tammateix tanmateix
+Tammateix Tanmateix
+tanbé també
+Tanbé També
+"tan o més" "tant o més"
+tansols "tan sols"
+"tans sols" "tan sols"
+"Tans sols" "Tan sols"
+"tant sols" "tan sols"
+tantsols "tan sols"
+"Tant sols" "Tan sols"
+tècnicamnet tècnicament
+televisiò televisió
+Televisiò Televisió
+televissius televisius
+"temperatura mitja" "temperatura mitjana"
+temporalemnt temporalment
+"temps en que" "temps en què"
+"tendir ponts" "bastir ponts"
+tenr tenir
+terraquis terraqüis
+terraqui terraqüi
+testamnt testament
+tindràn tindran
+tinguent tenint
+Tinguent Tenint
+tinguéssin tinguessin
+tinguès tingués
+tinguè tingué
+Tinguè Tingué
+Tinguè Tingué
+títuls títols
+Títuls Títols
+títul títol
+Títul Títol
+tmabé també
+Tmabé També
+tmbé també
+Tmbé També
+tmbñe també
+Tmbñe També
+tmbñé també
+Tmbñé També
+totalemnt totalment
+"total o parcialment" "totalment o parcialment"
+"Tot i axò" "Tot i això"
+"tot i què" "tot i que"
+"Tot i què" "Tot i que"
+Tradicionalmnt Tradicionalment
+traducciò traducció
+Traducciò Traducció
+traicions traïcions
+Traicions Traïcions
+traició traïció
+Traició Traïció
+traieren tragueren
+traié tragué
+tranquilament tranquil·lament
+tranquiles tranquil·les
+tranquilitat tranquil·litat
+transcorrer transcórrer
+transcòrrer transcórrer
+transfons rerefons
+Transfons Rerefons
+transformacio transformació
+transfòs transfós
+trascèndencia transcendència
+trascendentals transcendentals
+traslacions translacions
+traslació translació
+Traslació Translació
+travès través
+tregueren tragueren
+treguessin traguessin
+tregués tragués
+tregué tragué
+treient traient
+trescents "tres-cents"
+"tres cent" "tres-cents"
+"tres-cent" "tres-cents"
+trienis triennis
+trieni trienni
+Trieni Trienni
+tripulacio tripulació
+trobaràn trobaran
+trobren troben
+trovaba trobava
+trovaben trobaven
+"tumor cancerigen" "tumor cancerós"
+"tumors cancerígens" "tumors cancerosos"
+"tutel·la" tutela
+Txequia Txèquia
+ubicus ubics
+ubicu ubic
+Ucrània Ucraïna
+Ucranïa Ucraïna
+"una altre banda" "una altra banda"
+"una ambient" "un ambient"
+"una arbre" "un arbre"
+"una arc" "un arc"
+"una espécie" "una espècie"
+"una forma o altre" "una forma o altra"
+"un allau" "una allau"
+"un alt en el camí" "un alto en el camí"
+"un altra banda" "una altra banda"
+"un altre banda" "una altra banda"
+"una manera o altre" "una manera o altra"
+unànims unànimes
+unànim unànime
+"una país" "un país"
+"un àrea" "una àrea"
+"un arma" "una arma"
+"una superfícies" "una superfície"
+"un casos" "uns casos"
+"un ciutat" "una ciutat"
+"un complexe" "un complex"
+"un densitat" "una densitat"
+"un empresa" "una empresa"
+"un època" "una època"
+"un espècie" "una espècie"
+"un espècie" "una espècie"
+"Un espècie" "Una espècie"
+unisò uníson
+Unisò Uníson
+"universitat de Columbia" "Universitat de Colúmbia"
+"Universitat de Columbia" "Universitat de Colúmbia"
+"universitat de Colúmbia" "Universitat de Colúmbia"
+"Universitat Colúmbia" "Universitat de Colúmbia"
+"Universitat Columbia" "Universitat de Colúmbia"
+"universitat Colúmbia" "Universitat de Colúmbia"
+"universitat Columbia" "Universitat de Colúmbia"
+"universitat de Harvard" "Universitat Harvard"
+"Universitat de Harvard" "Universitat Harvard"
+"universitat de Yale" "Universitat Yale"
+"Universitat de Yale" "Universitat Yale"
+"Universitat d'Harvard" "Universitat Harvard"
+"un kilometre" "un quilòmetre"
+"un lider" "un líder"
+"un més després" "un mes després"
+"Un més després" "Un mes després"
+"un organització" "una organització"
+"un procès" "un procés"
+"un progrès" "un progrés"
+"un regió" "una regió"
+"uns superfície" "una superfície"
+"un superfície" "una superfície"
+"un zona" "una zona"
+uqe que
+usualmnt usualment
+"va aconseguit" "va aconseguir"
+"va anular" "va anul·lar"
+"va avistar" "va albirar"
+"va cambiar" "va canviar"
+"va colaborar" "va col·laborar"
+"Va colaborar" "Va col·laborar"
+"va colocar" "va col·locar"
+"va confesar" "va confessar"
+"va confundar" "va cofundar"
+"va conmemorar" "va commemorar"
+"va conseguir" "va aconseguir"
+"Va conseguir" "Va aconseguir"
+"va descubrir" "va descobrir"
+"va disuadir" "va dissuadir"
+"va evaluar" "va avaluar"
+"va exilar" "va exiliar"
+"va fracasar" "va fracassar"
+vagada vegada
+vagades vegades
+"va haber" "va haver"
+"va incautar" "va confiscar"
+"va insertar" "va inserir"
+"va instalar" "va instal·lar"
+"va juntar" "va ajuntar"
+"van aconseguit" "van aconseguir"
+"van avistar" "van albirar"
+"van cambiar" "van canviar"
+"van colaborar" "van col·laborar"
+"Van colaborar" "Van col·laborar"
+"van colocar" "van col·locar"
+"van conmemorar" "van commemorar"
+"van conseguir" "van aconseguir"
+"Van conseguir" "Van aconseguir"
+"van descubrir" "van descobrir"
+"van disuadir" "van dissuadir"
+"van evaluar" "van avaluar"
+"van exilar" "van exiliar"
+"van fracasar" "van fracassar"
+"van haber" "van haver"
+"van incautar" "van confiscar"
+"van instalar" "van instal·lar"
+"van juntar" "van ajuntar"
+"van otorgar" "van atorgar"
+"van pasar" "van passar"
+"van realizar" "van realitzar"
+"Van realizar" "Van realitzar"
+"van reanudar" "van reprendre"
+"van recorrer" "van recórrer"
+"van ser trasllades" "van ser traslladades"
+"van ser trasllats" "van ser traslladats"
+vanser "van ser"
+"van solicitar" "van sol·licitar"
+"van suicidar" "van suïcidar"
+"va otorgar" "va atorgar"
+"va pasar" "va passar"
+vapassar "va passar"
+"va realizar" "va realitzar"
+"Va realizar" "Va realitzar"
+"va reanudar" "va reprendre"
+"va recorrer" "va recórrer"
+"varen instalar" "varen instal·lar"
+vasalls vassalls
+Vasalls Vassalls
+vasall vassall
+Vasall Vassall
+"va ser nombrada" "va ser nomenada"
+"va ser nombrat" "va ser nomenat"
+"va ser trasllada" "va ser traslladada"
+"va ser trasllat" "va ser traslladat"
+vaser "va ser"
+Vaser "Va ser"
+"va sofocar" "va sufocar"
+"va solicitar" "va sol·licitar"
+"va subastar" "va subhastar"
+"va suicidar" "va suïcidar"
+Vegéu Vegeu
+vegueu vegeu
+Vegueu Vegeu
+"Veieu també" "Vegeu també"
+veines veïnes
+vejau vegeu
+Vejau Vegeu
+"vel·leitats" "vel·leïtats"
+vençedors vencedors
+vençedor vencedor
+"Veure també" "Vegeu també"
+"Veure També" "Vegeu també"
+"vice-degà" vicedegà
+"vice-presidència" "vicepresidència"
+"vice-president" vicepresident
+"vida mitja" "vida mitjana"
+"vides mitges" "vides mitjanes"
+Vinarós Vinaròs
+vinguès vingués
+vinguè vingué
+Vinguè Vingué
+"vint-cinc" "vint-i-cinc"
+"vint-dos" "vint-i-dos"
+"vint-huit" "vint-i-huit"
+"vint-i-cint" "vint-i-cinc"
+"vint-nou" "vint-i-nou"
+"vint-quatre" "vint-i-quatre"
+"vint-set" "vint-i-set"
+"vint-sis" "vint-i-sis"
+"vint-tres" "vint-i-tres"
+"vint-vuit" "vint-i-vuit"
+visquè visqué
+Visquè Visqué
+volguer voler
+"Volum nº. " "Volum núm. "
+vuitcents "vuit-cents"
+"vuit cent" "vuit-cents"
+"vuit-cent" "vuit-cents"
+xàrxa xarxa
+xàrxes xarxes
+ximpanzès ximpanzés
+Ximpanzès Ximpanzés
+ximpanzè ximpanzé
+Ximpanzè Ximpanzé
+zènits zenits
+zènit zenit
+"zona limítrof" "zona limítrofa"
+"zones costeres" "zones costaneres"
+"zones limítrofs" "zones limítrofes"

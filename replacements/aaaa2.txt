@@ -1,0 +1,11 @@
+l'universitat "la universitat"
+L'universitat "La universitat"
+l'Universitat "la Universitat"
+L'Universitat "La Universitat"
+"un espècie" "una espècie"
+"Un espècie" "Una espècie"
+"la Índia" "l'Índia"
+"La Índia" "L'Índia"
+"de Espanya" "d'Espanya"
+"d'Hèlsinki" "de Hèlsinki"
+de'n d'en
