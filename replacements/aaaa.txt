@@ -1,3 +1,12 @@
+"es un dels" "és un dels"
+"Es un dels" "És un dels"
+"es una de les" "és una de les"
+"Es una de les" "És una de les"
+"se'n anà" "se n'anà"
+"se'n anaren" "se n'anaren"
+cristalització cristal·lització
+"Ramón i Cajal" "Ramón y Cajal"
+"Ramon i Cajal" "Ramón y Cajal"
 "castellano-manxec" castellanomanxec
 "castellano-manxecs" castellanomanxecs
 "castellano-manxega" castellanomanxega
