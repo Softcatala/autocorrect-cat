@@ -383,9 +383,7 @@ otorinolaringòlegs otorrinolaringòlegs
 otorinolaringòloga otorrinolaringòloga
 otorinolaringòlogues otorrinolaringòlogues
 oxirinc oxirrinc
-oxirinc oxirrinc
 oxirinca oxirrinca
-oxirincs oxirrincs
 oxirincs oxirrincs
 oxirinques oxirrinques
 piloriza pilorriza
@@ -778,8 +776,7 @@ Otorinolaringòleg Otorrinolaringòleg
 Otorinolaringòlegs Otorrinolaringòlegs
 Otorinolaringòloga Otorrinolaringòloga
 Otorinolaringòlogues Otorrinolaringòlogues
-Oxirinc Oxirrinc
-Oxirinc Oxirrinc
+#Oxirinc Oxirrinc
 Oxirinca Oxirrinca
 Oxirincs Oxirrincs
 Oxirincs Oxirrincs

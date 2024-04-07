@@ -640,8 +640,8 @@ línees línies
 Línees Línies
 "buc de guerra" "vaixell de guerra"
 "bucs de guerra" "vaixells de guerra"
-"buc insígnia" "vaixell almirall"
-"bucs insígnia" "vaixells almirall"
+"buc insígnia" "vaixell insígnia"
+"bucs insígnia" "vaixells insígnia"
 "es conegut" "és conegut"
 "es coneguda" "és coneguda"
 "Es conegut" "És conegut"

@@ -438,8 +438,21 @@ cambiats canviats
 "cap l'est" "cap a l'est"
 "cap l'oest" "cap a l'oest"
 "cap per abaix" "cap per avall"
-caracteristiques característiques
-Caracteristiques Característiques
+#caracteristiques característiques
+#Caracteristiques Característiques
+"les caracteristiques" "les característiques"
+"unes caracteristiques" "unes característiques"
+"aquestes caracteristiques" "aquestes característiques"
+"estes caracteristiques" "estes característiques"
+"eixes caracteristiques" "eixes característiques"
+"Les caracteristiques" "Les característiques"
+"Unes caracteristiques" "Unes característiques"
+"Aquestes caracteristiques" "Aquestes característiques"
+"Estes caracteristiques" "Estes característiques"
+"Eixes caracteristiques" "Eixes característiques"
+#"caracteristiques de" "característiques de"
+"caracteristiques del" "característiques del"
+"caracteristiques d'" "característiques d'"
 càrnica càrnia
 càrnic carni
 càrnics carnis
