@@ -2313,6 +2313,11 @@ provistes proveïdes
 provistos proveïts
 provist proveït
 provists proveïts
+desprovista desproveïda
+desprovistes desproveïdes
+desprovistos desproveïts
+desprovist desproveït
+desprovists desproveïts
 prusianes prussianes
 prusians prussians
 prusià prussià

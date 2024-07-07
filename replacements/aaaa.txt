@@ -1,3 +1,7 @@
+"està protagonitzada per" "és protagonitzada per"
+"Està protagonitzada per" "És protagonitzada per"
+"està protagonitzat per" "és protagonitzat per"
+"Està protagonitzat per" "És protagonitzat per"
 "es un dels" "és un dels"
 "Es un dels" "És un dels"
 "es una de les" "és una de les"
@@ -672,7 +676,7 @@ nordcoreà nord-coreà
 nordcoreans nord-coreans
 nordcoreana nord-coreana
 nordcoreanes nord-coreanes
-Referencies Referències
+#Referencies Referències
 posterorment posteriorment
 Posterorment Posteriorment
 situi situï

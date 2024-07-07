@@ -1215,8 +1215,6 @@ echo "Searching: Otorinolaringòloga in file ${path}"
 sed -i "s/\bOtorinolaringòloga\b/Otorrinolaringòloga/g" ${path}
 echo "Searching: Otorinolaringòlogues in file ${path}"
 sed -i "s/\bOtorinolaringòlogues\b/Otorrinolaringòlogues/g" ${path}
-echo "Searching: Oxirinc in file ${path}"
-sed -i "s/\bOxirinc\b/Oxirrinc/g" ${path}
 echo "Searching: Oxirinca in file ${path}"
 sed -i "s/\bOxirinca\b/Oxirrinca/g" ${path}
 echo "Searching: Oxirincs in file ${path}"
@@ -3625,10 +3623,30 @@ echo "Searching: cap\ l'oest in file ${path}"
 sed -i "s/\bcap\ l'oest\b/cap a l'oest/g" ${path}
 echo "Searching: cap\ per\ abaix in file ${path}"
 sed -i "s/\bcap\ per\ abaix\b/cap per avall/g" ${path}
-echo "Searching: caracteristiques in file ${path}"
-sed -i "s/\bcaracteristiques\b/característiques/g" ${path}
-echo "Searching: Caracteristiques in file ${path}"
-sed -i "s/\bCaracteristiques\b/Característiques/g" ${path}
+echo "Searching: les\ caracteristiques in file ${path}"
+sed -i "s/\bles\ caracteristiques\b/les característiques/g" ${path}
+echo "Searching: unes\ caracteristiques in file ${path}"
+sed -i "s/\bunes\ caracteristiques\b/unes característiques/g" ${path}
+echo "Searching: aquestes\ caracteristiques in file ${path}"
+sed -i "s/\baquestes\ caracteristiques\b/aquestes característiques/g" ${path}
+echo "Searching: estes\ caracteristiques in file ${path}"
+sed -i "s/\bestes\ caracteristiques\b/estes característiques/g" ${path}
+echo "Searching: eixes\ caracteristiques in file ${path}"
+sed -i "s/\beixes\ caracteristiques\b/eixes característiques/g" ${path}
+echo "Searching: Les\ caracteristiques in file ${path}"
+sed -i "s/\bLes\ caracteristiques\b/Les característiques/g" ${path}
+echo "Searching: Unes\ caracteristiques in file ${path}"
+sed -i "s/\bUnes\ caracteristiques\b/Unes característiques/g" ${path}
+echo "Searching: Aquestes\ caracteristiques in file ${path}"
+sed -i "s/\bAquestes\ caracteristiques\b/Aquestes característiques/g" ${path}
+echo "Searching: Estes\ caracteristiques in file ${path}"
+sed -i "s/\bEstes\ caracteristiques\b/Estes característiques/g" ${path}
+echo "Searching: Eixes\ caracteristiques in file ${path}"
+sed -i "s/\bEixes\ caracteristiques\b/Eixes característiques/g" ${path}
+echo "Searching: caracteristiques\ del in file ${path}"
+sed -i "s/\bcaracteristiques\ del\b/característiques del/g" ${path}
+echo "Searching: caracteristiques\ d' in file ${path}"
+sed -i "s/\bcaracteristiques\ d'\b/característiques d'/g" ${path}
 echo "Searching: càrnica in file ${path}"
 sed -i "s/\bcàrnica\b/càrnia/g" ${path}
 echo "Searching: càrnic in file ${path}"
@@ -7249,6 +7267,16 @@ echo "Searching: provist in file ${path}"
 sed -i "s/\bprovist\b/proveït/g" ${path}
 echo "Searching: provists in file ${path}"
 sed -i "s/\bprovists\b/proveïts/g" ${path}
+echo "Searching: desprovista in file ${path}"
+sed -i "s/\bdesprovista\b/desproveïda/g" ${path}
+echo "Searching: desprovistes in file ${path}"
+sed -i "s/\bdesprovistes\b/desproveïdes/g" ${path}
+echo "Searching: desprovistos in file ${path}"
+sed -i "s/\bdesprovistos\b/desproveïts/g" ${path}
+echo "Searching: desprovist in file ${path}"
+sed -i "s/\bdesprovist\b/desproveït/g" ${path}
+echo "Searching: desprovists in file ${path}"
+sed -i "s/\bdesprovists\b/desproveïts/g" ${path}
 echo "Searching: prusianes in file ${path}"
 sed -i "s/\bprusianes\b/prussianes/g" ${path}
 echo "Searching: prusians in file ${path}"
@@ -12589,6 +12617,32 @@ echo "Searching: d'inquietut in file ${path}"
 sed -i "s/\bd'inquietut\b/d'inquietud/g" ${path}
 echo "Searching: d'inquietuts in file ${path}"
 sed -i "s/\bd'inquietuts\b/d'inquietuds/g" ${path}
+echo "Searching: està\ protagonitzada\ per in file ${path}"
+sed -i "s/\bestà\ protagonitzada\ per\b/és protagonitzada per/g" ${path}
+echo "Searching: Està\ protagonitzada\ per in file ${path}"
+sed -i "s/\bEstà\ protagonitzada\ per\b/És protagonitzada per/g" ${path}
+echo "Searching: està\ protagonitzat\ per in file ${path}"
+sed -i "s/\bestà\ protagonitzat\ per\b/és protagonitzat per/g" ${path}
+echo "Searching: Està\ protagonitzat\ per in file ${path}"
+sed -i "s/\bEstà\ protagonitzat\ per\b/És protagonitzat per/g" ${path}
+echo "Searching: es\ un\ dels in file ${path}"
+sed -i "s/\bes\ un\ dels\b/és un dels/g" ${path}
+echo "Searching: Es\ un\ dels in file ${path}"
+sed -i "s/\bEs\ un\ dels\b/És un dels/g" ${path}
+echo "Searching: es\ una\ de\ les in file ${path}"
+sed -i "s/\bes\ una\ de\ les\b/és una de les/g" ${path}
+echo "Searching: Es\ una\ de\ les in file ${path}"
+sed -i "s/\bEs\ una\ de\ les\b/És una de les/g" ${path}
+echo "Searching: se'n\ anà in file ${path}"
+sed -i "s/\bse'n\ anà\b/se n'anà/g" ${path}
+echo "Searching: se'n\ anaren in file ${path}"
+sed -i "s/\bse'n\ anaren\b/se n'anaren/g" ${path}
+echo "Searching: cristalització in file ${path}"
+sed -i "s/\bcristalització\b/cristal·lització/g" ${path}
+echo "Searching: Ramón\ i\ Cajal in file ${path}"
+sed -i "s/\bRamón\ i\ Cajal\b/Ramón y Cajal/g" ${path}
+echo "Searching: Ramon\ i\ Cajal in file ${path}"
+sed -i "s/\bRamon\ i\ Cajal\b/Ramón y Cajal/g" ${path}
 echo "Searching: castellano\-manxec in file ${path}"
 sed -i "s/\bcastellano\-manxec\b/castellanomanxec/g" ${path}
 echo "Searching: castellano\-manxecs in file ${path}"
@@ -13788,9 +13842,9 @@ sed -i "s/\bbuc\ de\ guerra\b/vaixell de guerra/g" ${path}
 echo "Searching: bucs\ de\ guerra in file ${path}"
 sed -i "s/\bbucs\ de\ guerra\b/vaixells de guerra/g" ${path}
 echo "Searching: buc\ insígnia in file ${path}"
-sed -i "s/\bbuc\ insígnia\b/vaixell almirall/g" ${path}
+sed -i "s/\bbuc\ insígnia\b/vaixell insígnia/g" ${path}
 echo "Searching: bucs\ insígnia in file ${path}"
-sed -i "s/\bbucs\ insígnia\b/vaixells almirall/g" ${path}
+sed -i "s/\bbucs\ insígnia\b/vaixells insígnia/g" ${path}
 echo "Searching: es\ conegut in file ${path}"
 sed -i "s/\bes\ conegut\b/és conegut/g" ${path}
 echo "Searching: es\ coneguda in file ${path}"
@@ -13851,8 +13905,6 @@ echo "Searching: nordcoreana in file ${path}"
 sed -i "s/\bnordcoreana\b/nord-coreana/g" ${path}
 echo "Searching: nordcoreanes in file ${path}"
 sed -i "s/\bnordcoreanes\b/nord-coreanes/g" ${path}
-echo "Searching: Referencies in file ${path}"
-sed -i "s/\bReferencies\b/Referències/g" ${path}
 echo "Searching: posterorment in file ${path}"
 sed -i "s/\bposterorment\b/posteriorment/g" ${path}
 echo "Searching: Posterorment in file ${path}"
@@ -16468,7 +16520,7 @@ sed -i "s/\bviviseció\b/vivisecció/g" ${path}
 echo "Searching: Viviseció in file ${path}"
 sed -i "s/\bViviseció\b/Vivisecció/g" ${path}
 echo "Searching: ([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú]) in file ${path}"
-sed -i -E "s/([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú])/\1l·l\2/g" ${path}
+sed -i -E "s/([aeiouAEIOUàèéíòóúÀÈÉÍÒÓÚ])(l··l|l · l|l • l|l•l|l· l|l\.l|l ·l|l· l|ŀl|l\.·l|l·\.l|l×l)([aeiouàèéíòóú])/\1l·l\3/g" ${path}
 echo "Searching: ([AEIOUÀÈÉÍÒÓÚ])(L··L|L · L|L • L|L•L|L· L|L\.L|L ·L|L· L|ĿL|L\.·L|L·\.L|L×L)([AEIOUÀÈÉÍÒÓÚ]) in file ${path}"
 sed -i -E "s/([AEIOUÀÈÉÍÒÓÚ])(L··L|L · L|L • L|L•L|L· L|L\.L|L ·L|L· L|ĿL|L\.·L|L·\.L|L×L)([AEIOUÀÈÉÍÒÓÚ])/\1L·L\2/g" ${path}
 echo "Searching: \b([Ee]l)·l(abor[àaeéi].+)\b in file ${path}"
@@ -16828,7 +16880,7 @@ sed -i -E "s/\bcontribuit\b/contribuït/g" ${path}
 echo "Searching: \b[Uu]niversitat [Dd]e Yale\b in file ${path}"
 sed -i -E "s/\b[Uu]niversitat [Dd]e Yale\b/Universitat Yale/g" ${path}
 echo "Searching: \b[Uu]niversitat [Dd]e Colúmbia\b in file ${path}"
-sed -i -E "s/\b[Uu]niversitat [Dd]e Colúmbia\b/Universitat Colúmbia/g" ${path}
+sed -i -E "s/\b[Uu]niversitat [Dd]e Colúmbia\b/Universitat de Colúmbia/g" ${path}
 echo "Searching: \b[Uu]niversitat [Dd]e Harvard\b in file ${path}"
 sed -i -E "s/\b[Uu]niversitat [Dd]e Harvard\b/Universitat Harvard/g" ${path}
 echo "Searching: \bUniversitat d['’\`′´]Harvard\b in file ${path}"
